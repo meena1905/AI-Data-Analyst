@@ -1,0 +1,1642 @@
+order_id,order_date,customer,region,category,product,quantity,unit_price,revenue
+1760,2024-06-14,Customer 10,North,Electronics,4K Monitor,2,154.47,308.94
+1730,2024-06-05,Customer 37,East,Home & Kitchen,Coffee Maker,1,64.62,64.62
+2323,2024-10-22,Customer 60,North,Apparel,Running Shoes,4,56.03,224.12
+1083,2024-01-18,Customer 12,East,Sports,Dumbbell Set,1,64.89,64.89
+1870,2024-07-10,Customer 39,West,Electronics,Wireless Earbuds,2,101.13,202.26
+1004,2024-01-01,Customer 31,East,Home & Kitchen,Blender,4,83.74,334.96
+2539,2024-12-11,Customer 22,South,Electronics,Bluetooth Speaker,2,113.24,384.36
+1656,2024-05-19,Customer 17,East,Home & Kitchen,Air Fryer,4,83.69,334.76
+1529,2024-04-20,Customer 56,East,Electronics,Bluetooth Speaker,3,132.14,396.42
+2038,2024-08-18,Customer 58,South,Apparel,Cotton T-Shirt,2,40.25,80.5
+1581,2024-05-01,Customer 11,South,Books,Self-Help Guide,1,22.0,22.0
+1290,2024-03-01,Customer 49,North,Home & Kitchen,Blender,4,84.16,336.64
+2167,2024-09-18,Customer 21,South,Apparel,Cotton T-Shirt,2,57.27,2838.9089538276953
+1861,2024-07-08,Customer 25,South,Sports,Tennis Racket,3,52.44,157.32
+1349,2024-03-14,Customer 27,West,Sports,Yoga Mat,3,53.55,160.65
+1031,2024-01-08,Customer 19,West,Books,Cookbook,1,21.18,21.18
+1322,2024-03-07,Customer 2,South,Home & Kitchen,Air Fryer,4,65.89,263.56
+1565,2024-04-28,Customer 25,West,Apparel,Running Shoes,3,36.88,110.64
+1204,2024-02-13,Customer 45,East,Books,Self-Help Guide,2,15.67,31.34
+2303,2024-10-18,,East,Home & Kitchen,Air Fryer,2,89.47,178.94
+1304,2024-03-04,Customer 23,West,Home & Kitchen,Air Fryer,1,60.16,60.16
+2521,2024-12-07,Customer 27,East,Apparel,Wool Sweater,2,53.49,152.1
+1293,2024-03-02,Customer 43,North,Apparel,Cotton T-Shirt,3,53.25,159.75
+1669,2024-05-22,Customer 52,North,Books,Biography,1,16.98,16.98
+2219,2024-09-29,Customer 36,South,Home & Kitchen,Air Fryer,2,75.67,151.34
+1800,2024-06-22,Customer 14,West,Sports,Cycling Helmet,3,52.06,156.18
+2012,2024-08-12,Customer 36,South,Apparel,Wool Sweater,3,42.73,128.19
+1689,2024-05-26,Customer 56,North,Electronics,Bluetooth Speaker,3,132.35,397.05
+2386,2024-11-04,Customer 5,East,Sports,Yoga Mat,1,59.51,97.3
+1515,2024-04-17,Customer 25,North,Sports,Tennis Racket,4,70.58,282.32
+1978,2024-08-05,Customer 17,West,Home & Kitchen,Blender,1,88.87,88.87
+2452,2024-11-20,Customer 3,South,Sports,Yoga Mat,1,64.59,90.92
+2144,2024-09-12,Customer 25,South,Home & Kitchen,Coffee Maker,2,77.86,155.72
+2553,2024-12-14,Customer 13,South,Electronics,Bluetooth Speaker,2,134.82,426.85
+1221,2024-02-16,Customer 45,South,Books,Self-Help Guide,4,23.38,93.52
+2437,2024-11-17,Customer 7,North,Books,Biography,3,20.68,91.81
+1725,2024-06-04,Customer 58,South,Electronics,Bluetooth Speaker,3,152.18,456.54
+1612,2024-05-08,Customer 40,South,Sports,Tennis Racket,3,45.36,136.08
+2439,2024-11-17,Customer 34,South,Apparel,Wool Sweater,4,46.48,304.94
+1616,2024-05-09,Customer 4,South,Sports,Dumbbell Set,2,71.12,142.24
+2461,2024-11-23,Customer 56,West,Sports,Dumbbell Set,1,64.03,96.7
+1085,2024-01-19,Customer 3,South,Apparel,Denim Jacket,2,48.2,96.4
+2142,2024-09-11,Customer 6,East,Home & Kitchen,Cookware Set,4,57.61,230.44
+1549,2024-04-24,Customer 36,West,Apparel,Wool Sweater,4,53.71,214.84
+1620,2024-05-10,Customer 45,North,Apparel,Denim Jacket,3,53.75,161.25
+2135,2024-09-10,Customer 3,North,Books,Biography,3,21.0,63.0
+2104,2024-09-02,Customer 15,South,Home & Kitchen,Coffee Maker,3,87.3,261.9
+2175,2024-09-19,Customer 25,West,Apparel,Denim Jacket,2,46.68,93.36
+1112,2024-01-25,Customer 23,West,Home & Kitchen,Air Fryer,3,84.13,252.39
+1350,2024-03-14,Customer 43,South,Books,Fiction Novel,4,14.55,58.2
+2109,2024-09-03,Customer 20,East,Electronics,Laptop Stand,3,137.56,412.68
+2530,2024-12-08,Customer 56,East,Sports,Tennis Racket,2,49.16,160.19
+1948,2024-07-29,Customer 30,North,Sports,Cycling Helmet,4,68.19,272.76
+1584,2024-05-02,Customer 45,East,Sports,Yoga Mat,4,61.48,245.92
+1266,2024-02-26,Customer 11,South,Home & Kitchen,Coffee Maker,3,57.98,173.94
+1334,2024-03-11,Customer 15,West,Books,Biography,2,14.41,28.82
+1175,2024-02-07,Customer 12,North,Home & Kitchen,Blender,2,82.76,165.52
+1148,2024-02-03,Customer 9,North,Books,Fiction Novel,1,21.31,21.31
+2436,2024-11-17,Customer 58,West,Electronics,4K Monitor,1,138.35,191.6
+1708,2024-05-30,Customer 37,West,Books,Biography,4,18.45,73.8
+2264,2024-10-08,Customer 46,West,Electronics,Laptop Stand,3,147.02,441.06
+1863,2024-07-09,Customer 22,West,Apparel,Wool Sweater,2,50.18,100.36
+2588,2024-12-22,Customer 53,West,Apparel,Cotton T-Shirt,2,39.62,103.69
+1016,2024-01-04,Customer 36,South,Home & Kitchen,Cookware Set,2,78.33,156.66
+1853,2024-07-05,Customer 30,West,Sports,Yoga Mat,1,68.83,68.83
+1197,2024-02-12,Customer 33,West,Home & Kitchen,Air Fryer,4,70.11,280.44
+1061,2024-01-15,Customer 35,East,Home & Kitchen,Air Fryer,2,77.33,154.66
+2407,2024-11-08,Customer 41,West,Apparel,Running Shoes,4,48.07,287.29
+2609,2024-12-26,Customer 29,South,Apparel,Cotton T-Shirt,2,52.43,186.73
+1070,2024-01-16,Customer 20,North,Sports,Yoga Mat,4,46.24,184.96
+1073,2024-01-16,Customer 39,North,Electronics,Laptop Stand,1,150.38,150.38
+1896,2024-07-17,Customer 33,West,Sports,Cycling Helmet,2,61.77,123.54
+1816,2024-06-25,Customer 8,South,Electronics,Bluetooth Speaker,2,128.2,256.4
+2468,2024-11-25,Customer 13,North,Apparel,Cotton T-Shirt,3,51.02,215.48
+2192,2024-09-22,Customer 52,South,Home & Kitchen,Blender,3,67.77,203.31
+2450,2024-11-20,Customer 51,North,Sports,Cycling Helmet,1,70.91,113.74
+1069,2024-01-16,Customer 40,South,Books,Cookbook,3,16.34,49.02
+2257,2024-10-07,Customer 28,West,Sports,Tennis Racket,4,69.59,278.36
+1573,2024-04-30,Customer 45,South,Sports,Cycling Helmet,1,49.44,49.44
+2047,2024-08-19,Customer 24,East,Apparel,Denim Jacket,1,57.45,57.45
+2146,2024-09-13,Customer 43,East,Books,Cookbook,2,15.72,31.44
+1603,2024-05-06,Customer 6,West,Electronics,4K Monitor,1,133.77,133.77
+2420,2024-11-12,Customer 6,East,Apparel,Cotton T-Shirt,1,36.48,65.31
+1103,2024-01-24,Customer 15,West,Books,Biography,1,23.13,23.13
+1157,2024-02-04,Customer 25,North,Home & Kitchen,Blender,4,84.59,-50.0
+2339,2024-10-25,Customer 26,East,Books,Biography,4,21.43,85.72
+1697,2024-05-27,Customer 21,West,Books,Biography,1,18.4,18.4
+2608,2024-12-26,Customer 30,North,Home & Kitchen,Cookware Set,3,77.96,305.67
+1854,2024-07-05,Customer 39,East,Home & Kitchen,Coffee Maker,2,90.19,180.38
+1003,2024-01-01,Customer 16,East,Apparel,Denim Jacket,4,47.35,189.4
+1393,2024-03-24,Customer 24,North,Apparel,Wool Sweater,2,44.3,88.6
+1965,2024-08-02,Customer 33,South,Sports,Yoga Mat,4,46.94,187.76
+1925,2024-07-24,Customer 12,North,Sports,Dumbbell Set,1,53.69,53.69
+1154,2024-02-04,Customer 1,North,Books,Fiction Novel,1,15.89,15.89
+2337,2024-10-25,Customer 7,West,Electronics,Wireless Earbuds,1,117.31,117.31
+1046,2024-01-11,Customer 23,East,Home & Kitchen,Coffee Maker,500,89.65,179.3
+1781,2024-06-18,Customer 51,West,Sports,Cycling Helmet,2,68.27,136.54
+1168,2024-02-06,Customer 34,South,Electronics,Laptop Stand,4,112.71,450.84
+2419,2024-11-11,Customer 23,North,Apparel,Running Shoes,2,39.8,131.34
+1193,2024-02-11,Customer 32,East,Home & Kitchen,Blender,3,67.33,201.99
+2056,2024-08-21,Customer 6,East,Home & Kitchen,Blender,3,64.93,194.79
+2155,2024-09-14,Customer 1,South,Books,Biography,3,16.73,50.19
+2415,2024-11-10,Customer 26,West,Sports,Yoga Mat,2,46.36,141.41
+2494,2024-12-01,Customer 37,South,Books,Fiction Novel,3,19.14,101.23
+1328,2024-03-10,Customer 55,East,Electronics,Bluetooth Speaker,3,105.66,316.98
+1841,2024-07-01,Customer 27,East,Books,Fiction Novel,4,21.46,85.84
+1147,2024-02-02,Customer 26,East,Apparel,Running Shoes,4,51.97,207.88
+1554,2024-04-25,Customer 8,South,Home & Kitchen,Cookware Set,4,64.11,256.44
+1037,2024-01-09,Customer 27,North,Electronics,Laptop Stand,1,126.93,126.93
+1050,2024-01-11,Customer 45,West,Electronics,Bluetooth Speaker,4,127.4,509.6
+1216,2024-02-15,Customer 43,South,Sports,Yoga Mat,4,47.62,190.48
+1137,2024-01-30,Customer 14,North,Home & Kitchen,Air Fryer,4,66.95,267.8
+1324,2024-03-08,Customer 31,East,Electronics,Bluetooth Speaker,4,143.18,572.72
+1733,2024-06-06,Customer 41,South,Apparel,Running Shoes,2,48.34,96.68
+1897,2024-07-17,Customer 41,West,Books,Biography,4,14.41,57.64
+2018,2024-08-13,Customer 25,South,Apparel,Cotton T-Shirt,3,54.28,162.84
+1891,2024-07-16,Customer 3,North,Books,Cookbook,4,21.81,87.24
+1985,2024-08-07,Customer 34,West,Home & Kitchen,Air Fryer,1,85.01,85.01
+1318,2024-03-07,Customer 33,East,Home & Kitchen,Cookware Set,1,71.4,71.4
+2550,2024-12-13,Customer 7,West,Sports,Yoga Mat,1,61.14,99.71
+2421,2024-11-12,Customer 18,West,Home & Kitchen,Air Fryer,2,76.9,250.31
+1902,2024-07-19,Customer 55,South,Home & Kitchen,Blender,2,62.24,124.48
+2512,2024-12-04,Customer 38,West,Sports,Cycling Helmet,4,48.51,281.21
+1755,2024-06-12,Customer 8,East,Home & Kitchen,Coffee Maker,4,59.17,236.68
+2242,2024-10-04,Customer 3,South,Apparel,Cotton T-Shirt,2,57.78,115.56
+1972,2024-08-04,Customer 30,North,Electronics,Wireless Earbuds,1,104.24,104.24
+1687,2024-05-25,Customer 6,West,Sports,Cycling Helmet,3,63.85,191.55
+2087,2024-08-29,Customer 59,South,Home & Kitchen,Coffee Maker,2,56.13,112.26
+2632,2024-12-30,Customer 38,East,Books,Self-Help Guide,1,20.0,33.09
+2011,2024-08-12,Customer 8,East,Books,Cookbook,4,15.6,62.4
+1361,2024-03-16,Customer 24,South,Apparel,Denim Jacket,3,51.33,153.99
+1774,2024-06-17,Customer 15,North,Sports,Yoga Mat,1,61.12,61.12
+1264,2024-02-25,Customer 1,South,Home & Kitchen,Cookware Set,2,62.8,125.6
+1400,2024-03-25,Customer 24,South,Apparel,Denim Jacket,1,57.14,57.14
+1356,2024-03-15,Customer 27,West,Home & Kitchen,Cookware Set,4,68.04,272.16
+1986,2024-08-07,Customer 16,East,Sports,Tennis Racket,1,65.69,65.69
+1087,2024-01-19,Customer 50,North,Sports,Dumbbell Set,2,54.65,109.3
+1749,2024-06-10,Customer 9,East,Sports,Dumbbell Set,3,46.24,138.72
+2364,2024-10-31,Customer 34,South,Electronics,Bluetooth Speaker,4,128.59,514.36
+1247,2024-02-22,Customer 21,South,Sports,Tennis Racket,3,46.38,139.14
+1416,2024-03-29,Customer 52,East,Sports,Dumbbell Set,1,48.97,48.97
+2591,2024-12-22,Customer 56,East,Books,Fiction Novel,4,14.73,98.18
+1065,2024-01-15,Customer 40,South,Apparel,Running Shoes,3,48.68,146.04
+1303,2024-03-04,Customer 56,West,Sports,Cycling Helmet,2,59.67,119.34
+1170,2024-02-07,Customer 48,North,Apparel,Running Shoes,4,39.21,156.84
+1667,2024-05-21,Customer 37,East,Home & Kitchen,Cookware Set,4,86.38,345.52
+2246,2024-10-05,Customer 60,East,Books,Cookbook,3,18.16,54.48
+1464,2024-04-08,Customer 51,West,Books,Cookbook,1,18.16,18.16
+2517,2024-12-06,Customer 57,North,Apparel,Wool Sweater,2,40.77,136.89
+2552,2024-12-14,Customer 34,North,Apparel,Cotton T-Shirt,4,46.28,276.66
+1930,2024-07-25,Customer 6,East,Sports,Cycling Helmet,3,68.99,206.97
+1631,2024-05-12,Customer 5,East,Home & Kitchen,Blender,1,83.05,83.05
+2611,2024-12-26,Customer 25,North,Books,Biography,3,15.58,63.13
+1500,2024-04-14,Customer 34,South,Home & Kitchen,Coffee Maker,2,64.43,128.86
+2006,2024-08-11,Customer 30,North,Books,Biography,1,20.67,20.67
+1343,2024-03-12,Customer 22,East,Electronics,Wireless Earbuds,3,139.99,419.97
+1750,2024-06-10,Customer 45,West,Apparel,Running Shoes,1,47.94,47.94
+1648,2024-05-18,Customer 31,North,Sports,Tennis Racket,3,45.82,137.46
+1522,2024-04-19,Customer 46,South,Apparel,Running Shoes,3,48.78,146.34
+1703,2024-05-29,Customer 9,East,Books,Fiction Novel,2,20.74,41.48
+2107,2024-09-03,Customer 20,South,Books,Cookbook,3,16.51,49.53
+2297,2024-10-17,Customer 26,North,Sports,Tennis Racket,3,71.14,213.42
+1199,2024-02-12,Customer 34,North,Home & Kitchen,Blender,1,84.63,84.63
+1623,2024-05-10,Customer 52,East,Apparel,Wool Sweater,2,51.35,102.7
+1263,2024-02-25,Customer 53,East,Books,Biography,3,16.29,48.87
+1898,2024-07-17,Customer 40,West,Sports,Dumbbell Set,1,48.96,48.96
+2599,2024-12-24,Customer 19,South,Home & Kitchen,Air Fryer,2,77.46,265.27
+1908,2024-07-20,Customer 29,North,Books,Cookbook,2,22.57,45.14
+1427,2024-03-31,Customer 4,East,Books,Fiction Novel,3,16.2,48.6
+1596,2024-05-04,Customer 19,West,Apparel,Wool Sweater,3,52.57,157.71
+2481,2024-11-27,Customer 56,North,Electronics,Bluetooth Speaker,2,118.05,335.87
+2577,2024-12-20,Customer 31,East,Apparel,Wool Sweater,1,42.56,65.71
+1688,2024-05-25,Customer 4,South,Apparel,Denim Jacket,2,57.05,114.1
+2469,2024-11-25,,South,Books,Biography,2,15.99,53.02
+1153,2024-02-03,Customer 22,North,Sports,Tennis Racket,1,51.79,938.2471738673981
+1250,2024-02-23,Customer 50,East,Sports,Tennis Racket,4,58.27,233.08
+2362,2024-10-30,Customer 47,East,Electronics,Laptop Stand,3,120.47,361.41
+2218,2024-09-28,Customer 18,North,Apparel,Wool Sweater,3,36.44,109.32
+1642,2024-05-16,Customer 35,East,Books,Self-Help Guide,3,21.79,65.37
+2325,2024-10-23,Customer 20,East,Sports,Dumbbell Set,3,56.14,168.42
+1740,2024-06-09,Customer 28,South,Home & Kitchen,Coffee Maker,1,89.8,89.8
+1752,2024-06-11,Customer 40,South,Sports,Dumbbell Set,2,66.14,132.28
+1809,2024-06-24,Customer 18,West,Apparel,Running Shoes,4,56.29,225.16
+1317,2024-03-07,Customer 6,East,Sports,Dumbbell Set,1,68.2,68.2
+1847,2024-07-03,Customer 57,West,Home & Kitchen,Blender,3,65.93,197.79
+1458,2024-04-06,Customer 6,North,Sports,Dumbbell Set,4,59.86,239.44
+1471,2024-04-09,Customer 60,West,Electronics,Bluetooth Speaker,1,138.26,138.26
+2198,2024-09-23,Customer 40,South,Home & Kitchen,Air Fryer,4,59.95,239.8
+1389,2024-03-24,Customer 49,West,Books,Fiction Novel,4,20.23,80.92
+1761,2024-06-14,Customer 23,North,Books,Self-Help Guide,1,14.43,14.43
+1566,2024-04-28,Customer 19,West,Sports,Tennis Racket,4,59.38,237.52
+2112,2024-09-04,Customer 15,East,Electronics,Wireless Earbuds,4,117.7,470.8
+1229,2024-02-17,Customer 31,North,Sports,Cycling Helmet,1,51.64,51.64
+2592,2024-12-23,Customer 44,East,Electronics,4K Monitor,3,142.59,631.87
+1719,2024-06-02,Customer 1,South,Apparel,Running Shoes,2,45.05,90.1
+1027,2024-01-07,Customer 8,West,Books,Fiction Novel,2,20.32,40.64
+1288,2024-03-01,Customer 41,North,Apparel,Cotton T-Shirt,1,40.8,40.8
+1921,2024-07-23,Customer 6,East,Sports,Tennis Racket,1,53.18,53.18
+1072,2024-01-16,Customer 46,North,Electronics,Wireless Earbuds,4,103.99,415.96
+2161,2024-09-16,Customer 6,North,Home & Kitchen,Blender,1,85.49,85.49
+2055,2024-08-20,Customer 29,South,Electronics,Wireless Earbuds,2,148.11,296.22
+2156,2024-09-14,Customer 13,West,Electronics,Wireless Earbuds,4,110.34,441.36
+2305,2024-10-19,Customer 32,North,Electronics,4K Monitor,3,133.56,400.68
+1335,2024-03-11,Customer 58,West,Apparel,Denim Jacket,2,37.34,74.68
+1702,2024-05-28,Customer 29,West,Books,Cookbook,1,22.42,22.42
+1150,2024-02-03,Customer 47,West,Home & Kitchen,Blender,2,68.03,136.06
+2027,2024-08-15,Customer 42,South,Electronics,Bluetooth Speaker,4,116.14,464.56
+2342,2024-10-26,Customer 19,South,Sports,Tennis Racket,4,61.4,245.6
+2170,2024-09-19,Customer 33,West,Books,Fiction Novel,2,14.54,29.08
+1931,2024-07-25,Customer 27,East,Electronics,Laptop Stand,1,106.94,106.94
+2070,2024-08-25,Customer 17,North,Electronics,Wireless Earbuds,3,107.91,323.73
+1269,2024-02-26,Customer 55,East,Books,Fiction Novel,1,18.84,18.84
+1181,2024-02-08,Customer 29,West,Home & Kitchen,Coffee Maker,1,71.68,71.68
+1357,2024-03-15,Customer 55,North,Books,Self-Help Guide,4,19.39,77.56
+2015,2024-08-13,Customer 22,East,Apparel,Wool Sweater,2,45.91,91.82
+1957,2024-08-01,Customer 22,North,Books,Biography,3,17.78,53.34
+1099,2024-01-22,Customer 10,North,Books,Biography,3,16.79,50.37
+2514,2024-12-05,Customer 2,South,Books,Self-Help Guide,3,22.2,115.67
+1321,2024-03-07,Customer 43,North,Books,Biography,4,21.73,86.92
+1727,2024-06-05,Customer 32,West,Books,Fiction Novel,3,22.37,67.11
+1783,2024-06-18,Customer 34,South,Books,Fiction Novel,3,15.4,46.2
+2116,2024-09-05,Customer 44,East,Books,Fiction Novel,1,15.59,15.59
+2075,2024-08-26,Customer 52,East,Apparel,Running Shoes,1,50.84,50.84
+1188,2024-02-09,Customer 53,West,Home & Kitchen,Cookware Set,1,74.26,74.26
+2330,2024-10-24,Customer 41,North,Home & Kitchen,Coffee Maker,1,78.29,78.29
+1499,2024-04-14,Customer 36,West,Electronics,Wireless Earbuds,2,137.62,275.24
+1485,2024-04-12,Customer 54,East,Home & Kitchen,Coffee Maker,3,87.64,262.92
+1169,2024-02-06,Customer 41,East,Home & Kitchen,Cookware Set,2,70.11,140.22
+1160,2024-02-04,Customer 57,West,Sports,Dumbbell Set,1,70.22,70.22
+1910,2024-07-20,Customer 12,South,Home & Kitchen,Blender,1,81.13,81.13
+1140,2024-01-31,Customer 40,South,Sports,Tennis Racket,3,49.54,148.62
+1268,2024-02-26,Customer 60,East,Home & Kitchen,Cookware Set,2,78.99,157.98
+1121,2024-01-27,Customer 34,North,Electronics,Bluetooth Speaker,4,131.59,526.36
+2043,2024-08-18,Customer 43,South,Sports,Dumbbell Set,3,48.64,145.92
+1040,2024-01-10,Customer 5,North,Sports,Tennis Racket,1,58.29,58.29
+2034,2024-08-16,Customer 8,South,Electronics,Bluetooth Speaker,4,137.68,550.72
+1670,2024-05-22,Customer 30,North,Apparel,Wool Sweater,4,56.69,226.76
+1355,2024-03-15,,West,Apparel,Running Shoes,2,42.6,85.2
+1490,2024-04-12,Customer 20,South,Books,Fiction Novel,4,21.57,86.28
+1208,2024-02-13,Customer 40,East,Home & Kitchen,Coffee Maker,1,61.79,61.79
+1487,2024-04-12,Customer 4,South,Sports,Dumbbell Set,2,44.23,88.46
+2457,2024-11-22,Customer 6,West,Home & Kitchen,Air Fryer,3,86.72,365.32
+1933,2024-07-25,,North,Books,Self-Help Guide,1,20.97,20.97
+1407,2024-03-27,Customer 28,South,Sports,Cycling Helmet,2,63.67,127.34
+1411,2024-03-28,Customer 30,North,Apparel,Running Shoes,1,41.58,41.58
+2131,2024-09-08,Customer 17,South,Books,Biography,1,17.12,17.12
+2127,2024-09-07,Customer 57,North,Electronics,Laptop Stand,1,154.99,154.99
+2244,2024-10-05,Customer 16,North,Apparel,Wool Sweater,1,37.54,37.54
+2548,2024-12-13,Customer 7,East,Home & Kitchen,Cookware Set,3,58.94,260.76
+1973,2024-08-04,Customer 8,West,Apparel,Wool Sweater,2,39.73,79.46
+2053,2024-08-20,Customer 30,East,Home & Kitchen,Cookware Set,2,63.48,126.96
+1577,2024-04-30,Customer 32,East,Apparel,Running Shoes,2,57.01,114.02
+2578,2024-12-20,Customer 40,West,Books,Cookbook,4,20.43,135.53
+2472,2024-11-26,Customer 23,West,Sports,Tennis Racket,4,61.44,425.41
+1232,2024-02-18,Customer 19,West,Electronics,Wireless Earbuds,2,134.16,268.32
+2500,2024-12-03,Customer 23,South,Sports,Cycling Helmet,2,52.69,178.83
+1239,2024-02-20,Customer 21,South,Apparel,Cotton T-Shirt,3,36.1,108.3
+2503,2024-12-03,Customer 49,West,Electronics,Bluetooth Speaker,3,102.9,539.84
+2000,2024-08-10,Customer 31,West,Sports,Dumbbell Set,1,59.38,59.38
+1916,2024-07-22,Customer 26,West,Sports,Tennis Racket,2,46.67,93.34
+1194,2024-02-11,,East,Sports,Cycling Helmet,4,66.08,264.32
+1478,2024-04-11,Customer 32,East,Home & Kitchen,Air Fryer,3,64.41,193.23
+2582,2024-12-21,Customer 38,West,Apparel,Wool Sweater,3,52.58,280.48
+1587,2024-05-02,Customer 32,South,Apparel,Cotton T-Shirt,2,43.43,86.86
+1923,2024-07-24,Customer 19,West,Electronics,4K Monitor,3,134.7,404.1
+2122,2024-09-05,Customer 44,North,Electronics,Wireless Earbuds,4,96.19,384.76
+1893,2024-07-16,Customer 4,West,Home & Kitchen,Blender,3,63.39,190.17
+1942,2024-07-28,Customer 17,East,Electronics,Laptop Stand,3,138.42,415.26
+1131,2024-01-29,Customer 34,South,Apparel,Cotton T-Shirt,4,51.25,205.0
+1332,2024-03-11,Customer 5,North,Apparel,Running Shoes,1,37.89,37.89
+1963,2024-08-02,Customer 50,North,Home & Kitchen,Blender,3,66.57,199.71
+1443,2024-04-03,Customer 7,North,Sports,Cycling Helmet,4,64.92,259.68
+1600,2024-05-05,Customer 9,North,Apparel,Wool Sweater,1,48.94,48.94
+1850,2024-07-04,Customer 59,North,Home & Kitchen,Blender,4,87.87,351.48
+1709,2024-05-31,Customer 41,West,Electronics,Wireless Earbuds,1,133.33,133.33
+1602,2024-05-06,Customer 56,West,Apparel,Cotton T-Shirt,4,46.92,187.68
+1533,2024-04-20,Customer 18,East,Home & Kitchen,Cookware Set,4,84.86,339.44
+2121,2024-09-05,Customer 38,North,Home & Kitchen,Blender,2,61.2,122.4
+2387,2024-11-05,Customer 56,East,Home & Kitchen,Blender,3,76.05,340.82
+1198,2024-02-12,Customer 47,South,Sports,Dumbbell Set,2,58.9,117.8
+1059,2024-01-14,Customer 19,West,Electronics,Wireless Earbuds,2,147.77,295.54
+1881,2024-07-13,Customer 4,North,Books,Self-Help Guide,2,15.45,30.9
+1562,2024-04-27,Customer 8,East,Sports,Yoga Mat,3,51.22,153.66
+2319,2024-10-22,Customer 1,South,Electronics,Bluetooth Speaker,4,122.93,491.72
+1883,2024-07-14,Customer 4,North,Books,Fiction Novel,3,23.16,69.48
+1107,2024-01-24,Customer 48,West,Home & Kitchen,Air Fryer,4,82.64,330.56
+1210,2024-02-14,Customer 37,North,Electronics,Laptop Stand,2,117.39,234.78
+2275,2024-10-11,Customer 57,North,Books,Self-Help Guide,2,22.04,44.08
+1608,2024-05-08,,West,Home & Kitchen,Coffee Maker,4,61.62,246.48
+1737,2024-06-07,Customer 20,West,Sports,Tennis Racket,2,45.05,90.1
+1913,2024-07-21,Customer 36,East,Apparel,Wool Sweater,3,54.17,162.51
+2508,2024-12-04,Customer 41,East,Apparel,Running Shoes,2,45.38,152.83
+1477,2024-04-10,Customer 15,West,Books,Cookbook,1,15.43,15.43
+1006,2024-01-01,Customer 7,East,Apparel,Wool Sweater,1,36.8,36.8
+1422,2024-03-30,Customer 38,West,Sports,Tennis Racket,3,45.91,137.73
+1977,2024-08-05,Customer 31,South,Electronics,4K Monitor,1,136.9,136.9
+2083,2024-08-27,Customer 28,North,Books,Cookbook,4,22.88,91.52
+2489,2024-11-29,Customer 45,East,Apparel,Denim Jacket,1,48.22,68.78
+2091,2024-08-30,Customer 54,West,Home & Kitchen,Air Fryer,1,59.72,59.72
+1811,2024-06-25,Customer 22,West,Sports,Dumbbell Set,3,45.8,137.4
+1371,2024-03-18,Customer 7,South,Sports,Tennis Racket,3,53.5,160.5
+2425,2024-11-14,Customer 4,West,Apparel,Cotton T-Shirt,3,36.81,150.71
+2181,2024-09-21,Customer 17,East,Home & Kitchen,Coffee Maker,4,73.51,294.04
+1744,2024-06-09,Customer 18,West,Books,Biography,2,19.67,39.34
+1409,2024-03-27,Customer 28,North,Books,Self-Help Guide,1,23.31,23.31
+1712,2024-06-01,Customer 31,South,Sports,Dumbbell Set,1,67.58,67.58
+1472,2024-04-09,Customer 53,South,Books,Fiction Novel,3,20.98,62.94
+2370,2024-11-01,Customer 10,North,Home & Kitchen,Coffee Maker,3,87.37,414.62
+2013,2024-08-12,Customer 55,South,Electronics,Bluetooth Speaker,1,97.72,97.72
+1610,2024-05-08,Customer 41,East,Electronics,Laptop Stand,2,110.54,221.08
+2095,2024-08-30,Customer 22,North,Apparel,Denim Jacket,4,49.38,197.52
+2428,2024-11-15,Customer 39,North,Books,Cookbook,2,22.03,58.82
+2097,2024-08-31,Customer 9,South,Sports,Tennis Racket,4,64.58,258.32
+1456,2024-04-05,Customer 40,South,Books,Cookbook,4,20.58,82.32
+2465,2024-11-24,Customer 14,South,Sports,Yoga Mat,2,66.31,204.35
+2526,2024-12-08,Customer 31,East,Sports,Yoga Mat,1,44.85,71.31
+1081,2024-01-18,Customer 8,East,Electronics,4K Monitor,3,155.81,467.43
+1609,2024-05-08,Customer 17,West,Sports,Tennis Racket,2,49.42,98.84
+1144,2024-02-01,Customer 39,South,Apparel,Denim Jacket,4,46.72,186.88
+1796,2024-06-22,Customer 34,South,Electronics,4K Monitor,2,98.36,196.72
+2462,2024-11-23,Customer 38,East,Apparel,Wool Sweater,4,56.67,325.61
+1710,2024-05-31,Customer 50,North,Electronics,4K Monitor,2,121.25,242.5
+1768,2024-06-16,Customer 41,West,Books,Cookbook,3,20.93,62.79
+1289,2024-03-01,Customer 29,East,Books,Fiction Novel,3,17.26,51.78
+2455,2024-11-21,Customer 3,West,Books,Cookbook,1,23.04,37.66
+1492,2024-04-13,Customer 55,South,Electronics,4K Monitor,3,116.84,350.52
+2196,2024-09-23,Customer 52,West,Books,Self-Help Guide,1,15.18,15.18
+2282,2024-10-13,Customer 7,West,Books,Fiction Novel,4,22.32,89.28
+1829,2024-06-28,Customer 40,East,Home & Kitchen,Coffee Maker,2,66.74,133.48
+1001,2024-01-01,Customer 53,South,Electronics,4K Monitor,4,145.27,581.08
+1976,2024-08-04,Customer 21,West,Apparel,Denim Jacket,2,47.47,94.94
+1982,2024-08-06,Customer 7,South,Apparel,Cotton T-Shirt,2,52.35,104.7
+2251,2024-10-06,Customer 6,West,Sports,Yoga Mat,1,51.23,51.23
+2456,2024-11-22,Customer 58,West,Home & Kitchen,Cookware Set,3,82.81,410.84
+2478,2024-11-27,Customer 51,North,Sports,Tennis Racket,2,57.94,161.1
+2258,2024-10-07,Customer 20,South,Sports,Tennis Racket,4,52.03,208.12
+2490,2024-11-29,Customer 1,West,Apparel,Denim Jacket,4,57.85,366.87
+1792,2024-06-20,Customer 26,West,Apparel,Running Shoes,4,55.39,221.56
+1432,2024-04-01,Customer 2,West,Sports,Dumbbell Set,1,52.21,52.21
+1187,2024-02-09,Customer 21,West,Books,Biography,1,19.75,19.75
+1782,2024-06-18,Customer 40,North,Electronics,4K Monitor,1,119.81,119.81
+2128,2024-09-07,Customer 43,North,Home & Kitchen,Cookware Set,2,71.68,143.36
+1570,2024-04-29,Customer 19,North,Electronics,Bluetooth Speaker,3,108.61,325.83
+2336,2024-10-24,Customer 27,East,Apparel,Wool Sweater,3,38.08,114.24
+1804,2024-06-23,Customer 44,East,Apparel,Running Shoes,2,44.21,88.42
+1248,2024-02-22,Customer 32,West,Apparel,Cotton T-Shirt,3,48.31,144.93
+2480,2024-11-27,Customer 50,South,Books,Self-Help Guide,1,14.41,21.93
+2224,2024-09-29,Customer 32,South,Books,Cookbook,1,17.42,17.42
+2241,2024-10-04,Customer 58,West,Home & Kitchen,Coffee Maker,1,64.16,64.16
+1180,2024-02-08,Customer 14,East,Electronics,Bluetooth Speaker,1,139.85,139.85
+1971,2024-08-04,Customer 59,East,Apparel,Running Shoes,3,50.8,152.4
+2080,2024-08-27,Customer 49,North,Home & Kitchen,Blender,3,73.96,221.88
+1801,2024-06-23,Customer 5,North,Electronics,Laptop Stand,3,126.35,379.05
+1626,2024-05-11,Customer 7,South,Electronics,Bluetooth Speaker,4,141.85,567.4
+1373,2024-03-19,Customer 14,West,Electronics,4K Monitor,1,100.43,100.43
+2534,2024-12-09,Customer 18,East,Home & Kitchen,Coffee Maker,3,75.16,357.24
+1186,2024-02-09,Customer 8,South,Home & Kitchen,Air Fryer,4,72.6,290.4
+2235,2024-10-02,Customer 9,North,Apparel,Wool Sweater,2,43.31,86.62
+1715,2024-06-02,Customer 49,South,Apparel,Cotton T-Shirt,3,56.73,170.19
+1362,2024-03-16,Customer 4,East,Home & Kitchen,Air Fryer,4,84.31,337.24
+1381,2024-03-21,Customer 60,North,Electronics,Laptop Stand,1,148.3,148.3
+2350,2024-10-27,Customer 27,South,Electronics,Wireless Earbuds,2,113.98,227.96
+1969,2024-08-03,Customer 20,South,Books,Fiction Novel,4,23.13,92.52
+1671,2024-05-22,Customer 53,East,Home & Kitchen,Coffee Maker,2,71.68,143.36
+1166,2024-02-06,Customer 58,West,Sports,Cycling Helmet,4,53.26,213.04
+2163,2024-09-17,Customer 30,East,Electronics,Wireless Earbuds,1,143.61,143.61
+1086,2024-01-19,Customer 59,South,Books,Fiction Novel,3,20.89,62.67
+2563,2024-12-16,Customer 25,South,Home & Kitchen,Coffee Maker,3,88.94,421.92
+1316,2024-03-06,Customer 31,South,Apparel,Cotton T-Shirt,4,50.74,202.96
+1377,2024-03-19,Customer 20,North,Electronics,Wireless Earbuds,4,138.8,555.2
+1586,2024-05-02,Customer 19,East,Electronics,4K Monitor,4,130.69,522.76
+1592,2024-05-03,Customer 38,South,Sports,Cycling Helmet,4,48.13,192.52
+2575,2024-12-20,Customer 29,South,Sports,Tennis Racket,2,55.07,148.64
+1934,2024-07-26,Customer 22,West,Sports,Cycling Helmet,4,54.15,216.6
+2411,2024-11-09,Customer 10,South,Sports,Yoga Mat,4,69.73,483.24
+1851,2024-07-04,Customer 28,West,Electronics,Wireless Earbuds,2,124.76,249.52
+1806,2024-06-23,Customer 3,South,Books,Fiction Novel,3,17.98,53.94
+1123,2024-01-28,Customer 51,South,Electronics,Bluetooth Speaker,4,138.44,553.76
+2527,2024-12-08,Customer 21,North,Electronics,4K Monitor,2,101.85,331.82
+2613,2024-12-26,Customer 28,North,Home & Kitchen,Cookware Set,3,61.59,269.07
+1243,2024-02-20,Customer 1,West,Home & Kitchen,Blender,3,89.63,268.89
+2035,2024-08-17,Customer 47,South,Electronics,Bluetooth Speaker,2,123.18,246.36
+1718,2024-06-02,Customer 7,West,Books,Cookbook,1,20.32,20.32
+2317,2024-10-21,Customer 39,South,Home & Kitchen,Air Fryer,1,82.12,82.12
+1231,2024-02-18,,West,Apparel,Cotton T-Shirt,2,51.69,103.38
+2261,2024-10-08,Customer 7,East,Sports,Cycling Helmet,3,54.36,163.08
+2068,2024-08-24,Customer 34,East,Sports,Tennis Racket,1,62.13,62.13
+1448,2024-04-04,Customer 48,West,Home & Kitchen,Air Fryer,3,72.04,216.12
+1989,2024-08-08,Customer 59,East,Apparel,Denim Jacket,2,57.51,115.02
+1425,2024-03-31,Customer 12,North,Home & Kitchen,Coffee Maker,4,72.33,289.32
+1235,2024-02-19,Customer 12,East,Home & Kitchen,Air Fryer,1,89.94,89.94
+2382,2024-11-04,Customer 29,North,Electronics,Laptop Stand,3,122.07,547.41
+1262,2024-02-25,Customer 25,South,Sports,Yoga Mat,3,61.15,183.45
+1057,2024-01-14,Customer 55,West,Electronics,4K Monitor,4,99.04,396.16
+1249,2024-02-23,Customer 60,North,Sports,Yoga Mat,2,60.05,120.1
+1028,2024-01-07,Customer 5,South,Books,Self-Help Guide,3,22.26,66.78
+1743,2024-06-09,Customer 36,East,Home & Kitchen,Blender,1,89.85,89.85
+1019,2024-01-05,Customer 41,North,Books,Fiction Novel,1,22.27,22.27
+2145,2024-09-12,Customer 42,East,Home & Kitchen,Blender,4,78.98,315.92
+2008,2024-08-12,Customer 26,East,Electronics,4K Monitor,4,100.58,402.32
+1146,2024-02-02,Customer 52,South,Books,Cookbook,2,16.71,33.42
+1843,2024-07-02,Customer 4,West,Apparel,Wool Sweater,3,36.94,110.82
+2560,2024-12-16,Customer 21,South,Home & Kitchen,Air Fryer,1,66.09,100.69
+2207,2024-09-25,Customer 7,North,Electronics,Wireless Earbuds,4,106.88,427.52
+1211,2024-02-14,Customer 17,East,Home & Kitchen,Blender,2,67.59,135.18
+1475,2024-04-10,Customer 30,North,Sports,Dumbbell Set,2,56.5,113.0
+1402,2024-03-26,Customer 12,West,Sports,Dumbbell Set,2,46.85,93.7
+1901,2024-07-18,Customer 22,North,Books,Cookbook,1,20.16,20.16
+1353,2024-03-14,Customer 39,South,Books,Self-Help Guide,3,18.6,55.8
+2089,2024-08-29,Customer 8,South,Apparel,Cotton T-Shirt,3,58.14,174.42
+1747,2024-06-10,Customer 10,North,Apparel,Denim Jacket,1,50.77,50.77
+1818,2024-06-26,Customer 32,West,Apparel,Cotton T-Shirt,2,52.6,105.2
+1944,2024-07-28,Customer 1,East,Sports,Tennis Racket,1,62.45,62.45
+2545,2024-12-12,Customer 25,West,Electronics,Bluetooth Speaker,4,96.58,532.66
+1879,2024-07-13,Customer 14,East,Books,Biography,2,16.59,33.18
+2405,2024-11-08,Customer 32,East,Apparel,Wool Sweater,3,37.83,166.64
+1889,2024-07-16,Customer 19,South,Books,Cookbook,4,15.9,63.6
+1938,2024-07-26,Customer 2,West,Books,Self-Help Guide,2,18.58,37.16
+1051,2024-01-11,Customer 3,South,Books,Biography,1,14.58,14.58
+1859,2024-07-07,Customer 6,East,Apparel,Running Shoes,1,44.62,44.62
+1778,2024-06-18,Customer 24,North,Home & Kitchen,Blender,3,65.4,196.2
+1685,2024-05-25,,North,Apparel,Denim Jacket,4,43.6,174.4
+1892,2024-07-16,Customer 34,East,Sports,Yoga Mat,1,61.02,61.02
+1980,2024-08-05,Customer 25,West,Apparel,Denim Jacket,3,43.28,129.84
+1058,2024-01-14,Customer 20,West,Home & Kitchen,Coffee Maker,1,77.93,77.93
+1493,2024-04-13,Customer 13,North,Books,Biography,4,20.38,81.52
+1833,2024-06-30,Customer 52,South,Books,Biography,3,22.98,68.94
+1509,2024-04-16,Customer 57,West,Books,Fiction Novel,2,17.03,34.06
+2206,2024-09-25,Customer 50,West,Electronics,Wireless Earbuds,4,143.14,572.56
+1048,2024-01-11,,North,Sports,Cycling Helmet,2,65.01,130.02
+2153,2024-09-14,Customer 9,East,Electronics,4K Monitor,2,146.78,293.56
+1319,2024-03-07,,East,Home & Kitchen,Coffee Maker,2,89.3,178.6
+1042,2024-01-10,Customer 44,South,Sports,Cycling Helmet,1,70.72,70.72
+2406,2024-11-08,Customer 32,West,Home & Kitchen,Blender,3,86.26,369.57
+2260,2024-10-08,Customer 32,West,Books,Biography,4,17.57,70.28
+2504,2024-12-03,Customer 6,West,Home & Kitchen,Air Fryer,3,82.56,403.37
+2371,2024-11-02,Customer 18,West,Books,Biography,1,19.65,32.6
+2295,2024-10-16,Customer 11,West,Electronics,Wireless Earbuds,2,138.55,277.1
+1820,2024-06-26,Customer 13,West,Books,Cookbook,4,17.68,70.72
+2020,2024-08-14,Customer 45,West,Books,Self-Help Guide,2,17.97,35.94
+2256,2024-10-07,Customer 22,North,Books,Cookbook,2,17.43,34.86
+1504,2024-04-15,Customer 57,West,Apparel,Cotton T-Shirt,3,54.2,162.6
+1227,2024-02-17,Customer 45,South,Home & Kitchen,Air Fryer,1,58.14,58.14
+1126,2024-01-28,Customer 34,North,Home & Kitchen,Coffee Maker,2,82.05,164.1
+2306,2024-10-19,Customer 48,North,Home & Kitchen,Cookware Set,1,89.98,89.98
+2158,2024-09-15,Customer 37,South,Apparel,Denim Jacket,1,51.51,51.51
+2168,2024-09-18,Customer 57,West,Sports,Yoga Mat,4,46.14,184.56
+1951,2024-07-31,Customer 42,East,Home & Kitchen,Blender,2,73.8,147.6
+1152,2024-02-03,Customer 27,South,Electronics,Wireless Earbuds,1,104.14,104.14
+1352,2024-03-14,Customer 37,East,Home & Kitchen,Blender,2,80.06,160.12
+1312,2024-03-05,Customer 6,West,Home & Kitchen,Blender,4,58.01,232.04
+2598,2024-12-24,Customer 3,West,Apparel,Cotton T-Shirt,3,50.84,225.65
+1597,2024-05-04,Customer 51,North,Apparel,Denim Jacket,3,58.24,174.72
+2300,2024-10-18,Customer 6,North,Home & Kitchen,Cookware Set,4,64.24,256.96
+2449,2024-11-20,Customer 54,East,Electronics,Bluetooth Speaker,1,131.64,204.89
+2555,2024-12-14,Customer 25,West,Apparel,Running Shoes,4,54.44,298.98
+1301,2024-03-03,Customer 3,South,Books,Cookbook,1,16.07,16.07
+2105,2024-09-02,Customer 4,West,Home & Kitchen,Blender,1,75.93,75.93
+1119,2024-01-27,Customer 6,West,Books,Self-Help Guide,4,19.42,77.68
+1287,2024-03-01,Customer 2,South,Electronics,Laptop Stand,3,153.53,460.59
+1635,2024-05-14,Customer 34,East,Home & Kitchen,Cookware Set,3,89.7,269.1
+2137,2024-09-10,Customer 13,North,Apparel,Cotton T-Shirt,4,36.65,146.6
+1633,2024-05-13,Customer 50,North,Home & Kitchen,Cookware Set,3,67.93,203.79
+2451,2024-11-20,Customer 27,South,Sports,Tennis Racket,3,63.8,262.22
+1947,2024-07-29,Customer 33,East,Electronics,Bluetooth Speaker,2,144.43,288.86
+1339,2024-03-12,Customer 13,West,Electronics,Laptop Stand,3,127.3,381.9
+1953,2024-07-31,Customer 51,East,Sports,Tennis Racket,1,48.63,48.63
+1030,2024-01-08,Customer 46,East,Books,Self-Help Guide,4,15.76,63.04
+2618,2024-12-27,Customer 51,West,Electronics,Wireless Earbuds,2,114.97,341.08
+1990,2024-08-08,Customer 32,East,Sports,Dumbbell Set,3,63.28,189.84
+1888,2024-07-15,Customer 30,West,Apparel,Running Shoes,4,54.51,218.04
+1201,2024-02-12,Customer 51,East,Sports,Yoga Mat,1,45.22,45.22
+1904,2024-07-19,Customer 36,West,Books,Self-Help Guide,4,17.85,71.4
+2341,2024-10-25,Customer 29,East,Books,Biography,3,17.07,51.21
+2092,2024-08-30,Customer 39,East,Apparel,Wool Sweater,3,56.14,168.42
+1988,2024-08-08,Customer 8,West,Sports,Yoga Mat,4,60.19,240.76
+1849,2024-07-03,Customer 21,South,Electronics,Bluetooth Speaker,4,138.77,555.08
+1378,2024-03-20,Customer 22,South,Apparel,Wool Sweater,4,39.16,156.64
+1064,2024-01-15,,West,Apparel,Denim Jacket,4,39.63,158.52
+1763,2024-06-15,Customer 15,East,Home & Kitchen,Air Fryer,1,56.63,56.63
+1991,2024-08-09,Customer 2,South,Electronics,Laptop Stand,1,151.95,151.95
+1178,2024-02-08,Customer 11,East,Sports,Yoga Mat,2,63.94,127.88
+2460,2024-11-22,Customer 23,West,Sports,Dumbbell Set,1,61.05,99.33
+2393,2024-11-06,Customer 32,North,Books,Cookbook,1,19.48,28.79
+1228,2024-02-17,Customer 34,North,Books,Biography,2,21.62,43.24
+2349,2024-10-27,Customer 58,South,Home & Kitchen,Coffee Maker,2,65.37,130.74
+2597,2024-12-24,Customer 2,South,Home & Kitchen,Blender,3,62.89,283.32
+1578,2024-05-01,Customer 55,South,Electronics,Wireless Earbuds,1,116.78,116.78
+2502,2024-12-03,Customer 55,South,Books,Self-Help Guide,3,21.64,102.74
+1080,2024-01-18,Customer 8,East,Sports,Tennis Racket,4,65.99,263.96
+1736,2024-06-07,Customer 43,South,Home & Kitchen,Air Fryer,2,74.09,148.18
+1338,2024-03-12,Customer 44,South,Books,Fiction Novel,3,17.86,53.58
+1162,2024-02-05,Customer 55,East,Books,Biography,4,19.91,79.64
+2440,2024-11-18,Customer 8,West,Sports,Yoga Mat,3,48.42,244.11
+1360,2024-03-16,Customer 53,South,Electronics,Bluetooth Speaker,3,138.48,415.44
+1429,2024-04-01,Customer 12,North,Books,Cookbook,1,21.67,21.67
+1615,2024-05-09,Customer 1,South,Home & Kitchen,Cookware Set,4,86.7,346.8
+1374,2024-03-19,Customer 48,East,Apparel,Wool Sweater,4,43.98,175.92
+2147,2024-09-13,Customer 17,South,Home & Kitchen,Air Fryer,3,79.92,239.76
+2214,2024-09-27,,West,Books,Self-Help Guide,2,16.88,33.76
+1327,2024-03-10,Customer 46,South,Electronics,4K Monitor,1,120.47,120.47
+1579,2024-05-01,Customer 53,East,Books,Fiction Novel,4,20.26,81.04
+1284,2024-02-29,,West,Sports,Tennis Racket,2,52.51,105.02
+1840,2024-07-01,Customer 29,South,Home & Kitchen,Cookware Set,1,71.21,71.21
+1745,2024-06-10,Customer 56,East,Electronics,Bluetooth Speaker,1,102.68,102.68
+2506,2024-12-03,Customer 6,North,Home & Kitchen,Blender,4,77.44,532.33
+2054,2024-08-20,Customer 12,South,Apparel,Denim Jacket,2,44.13,88.26
+1209,2024-02-14,Customer 18,North,Home & Kitchen,Air Fryer,4,63.58,254.32
+1498,2024-04-14,Customer 54,North,Books,Self-Help Guide,4,21.91,87.64
+2567,2024-12-17,Customer 7,South,Electronics,4K Monitor,3,155.76,616.4
+1995,2024-08-09,Customer 19,South,Sports,Dumbbell Set,2,58.91,117.82
+2467,2024-11-25,Customer 35,North,Sports,Cycling Helmet,2,69.71,203.64
+1097,2024-01-21,Customer 8,East,Sports,Yoga Mat,2,57.84,115.68
+1283,2024-02-29,Customer 47,South,Apparel,Denim Jacket,2,46.43,92.86
+2458,2024-11-22,Customer 20,West,Apparel,Cotton T-Shirt,3,49.47,217.7
+2315,2024-10-21,Customer 56,South,Books,Cookbook,2,15.97,31.94
+1614,2024-05-09,Customer 46,North,Books,Fiction Novel,2,15.94,31.88
+1632,2024-05-12,Customer 57,East,Electronics,Laptop Stand,2,96.56,193.12
+2179,2024-09-20,Customer 1,North,Books,Biography,2,14.96,29.92
+1442,2024-04-03,Customer 52,North,Electronics,Laptop Stand,1,129.54,129.54
+2284,2024-10-14,Customer 49,East,Sports,Tennis Racket,2,47.33,94.66
+1424,2024-03-31,Customer 14,South,Electronics,Laptop Stand,3,137.27,411.81
+1729,2024-06-05,Customer 47,East,Books,Self-Help Guide,1,19.92,19.92
+2204,2024-09-25,Customer 59,South,Home & Kitchen,Coffee Maker,2,58.96,117.92
+2366,2024-10-31,Customer 12,East,Books,Biography,2,15.84,31.68
+2408,2024-11-09,Customer 50,South,Apparel,Cotton T-Shirt,1,39.75,59.61
+1132,2024-01-29,Customer 23,East,Sports,Dumbbell Set,2,49.05,98.1
+1677,2024-05-23,Customer 39,West,Sports,Tennis Racket,3,62.65,187.95
+1143,2024-02-01,Customer 35,East,Electronics,Wireless Earbuds,1,134.6,134.6
+1815,2024-06-25,Customer 1,North,Sports,Tennis Racket,4,58.31,233.24
+2042,2024-08-18,Customer 1,South,Sports,Yoga Mat,2,60.62,121.24
+2329,2024-10-23,Customer 1,West,Home & Kitchen,Cookware Set,3,82.86,248.58
+1943,2024-07-28,Customer 52,North,Home & Kitchen,Cookware Set,4,89.53,358.12
+2194,2024-09-23,Customer 18,East,Books,Cookbook,1,22.21,22.21
+1568,2024-04-29,Customer 1,East,Apparel,Wool Sweater,2,51.02,102.04
+1380,2024-03-20,Customer 45,South,Home & Kitchen,Cookware Set,4,66.23,264.92
+2152,2024-09-13,Customer 28,South,Apparel,Wool Sweater,3,42.33,126.99
+1314,2024-03-06,Customer 38,South,Sports,Cycling Helmet,1,44.35,44.35
+1819,2024-06-26,Customer 16,West,Sports,Yoga Mat,1,71.4,71.4
+1359,2024-03-16,Customer 49,West,Electronics,Wireless Earbuds,3,143.75,431.25
+2123,2024-09-06,Customer 43,East,Apparel,Running Shoes,2,56.28,112.56
+2383,2024-11-04,Customer 59,East,Apparel,Wool Sweater,4,44.52,274.6
+2079,2024-08-27,Customer 37,West,Electronics,Wireless Earbuds,3,124.04,372.12
+2133,2024-09-09,Customer 7,North,Books,Self-Help Guide,4,15.01,60.04
+1007,2024-01-02,Customer 49,South,Home & Kitchen,Cookware Set,4,78.02,312.08
+1593,2024-05-03,Customer 16,East,Apparel,Wool Sweater,2,43.78,87.56
+1984,2024-08-07,Customer 22,North,Home & Kitchen,Cookware Set,1,72.41,72.41
+1821,2024-06-27,Customer 32,West,Electronics,Laptop Stand,4,138.89,555.56
+1238,2024-02-19,Customer 3,West,Home & Kitchen,Cookware Set,4,77.05,308.2
+1078,2024-01-17,Customer 14,North,Sports,Cycling Helmet,3,64.83,194.49
+1751,2024-06-10,Customer 42,South,Electronics,Bluetooth Speaker,2,146.05,292.1
+2416,2024-11-10,Customer 53,East,Apparel,Running Shoes,2,39.59,139.05
+1116,2024-01-26,Customer 34,North,Home & Kitchen,Air Fryer,3,58.29,174.87
+1323,2024-03-08,Customer 59,West,Electronics,4K Monitor,2,146.84,293.68
+1439,2024-04-03,Customer 5,South,Apparel,Running Shoes,1,54.74,54.74
+1548,2024-04-23,Customer 48,South,Sports,Dumbbell Set,1,58.48,58.48
+1173,2024-02-07,Customer 19,North,Apparel,Denim Jacket,4,38.65,154.6
+2368,2024-11-01,Customer 18,North,Home & Kitchen,Cookware Set,1,62.87,111.23
+1895,2024-07-16,Customer 22,South,Electronics,Laptop Stand,1,110.24,110.24
+2348,2024-10-26,Customer 4,East,Apparel,Denim Jacket,2,51.73,103.46
+2399,2024-11-07,Customer 23,West,Electronics,4K Monitor,2,138.29,459.26
+1414,2024-03-28,Customer 26,North,Electronics,4K Monitor,1,100.54,100.54
+1675,2024-05-23,Customer 60,North,Home & Kitchen,Blender,2,75.71,151.42
+1164,2024-02-06,Customer 47,East,Home & Kitchen,Cookware Set,2,73.95,147.9
+1846,2024-07-03,Customer 21,South,Home & Kitchen,Coffee Maker,1,65.54,65.54
+2067,2024-08-24,Customer 3,West,Books,Biography,1,14.65,14.65
+1746,2024-06-10,Customer 19,West,Sports,Yoga Mat,2,63.39,126.78
+2254,2024-10-07,Customer 22,South,Books,Biography,3,18.1,54.3
+2479,2024-11-27,Customer 49,West,Apparel,Cotton T-Shirt,3,54.05,246.78
+2389,2024-11-06,Customer 24,East,Apparel,Cotton T-Shirt,3,56.75,264.25
+1386,2024-03-23,Customer 14,East,Sports,Dumbbell Set,2,49.19,98.38
+1122,2024-01-27,Customer 1,North,Electronics,4K Monitor,1,148.72,148.72
+1095,2024-01-21,Customer 4,East,Apparel,Denim Jacket,4,56.0,224.0
+1045,2024-01-11,Customer 37,East,Home & Kitchen,Air Fryer,4,76.81,307.24
+1382,2024-03-21,Customer 48,West,Sports,Cycling Helmet,3,61.73,185.19
+2004,2024-08-11,Customer 24,West,Home & Kitchen,Blender,3,90.3,270.9
+1190,2024-02-10,Customer 26,West,Electronics,4K Monitor,2,123.19,246.38
+2355,2024-10-28,Customer 19,East,Apparel,Running Shoes,3,54.1,162.3
+2593,2024-12-23,Customer 14,North,Apparel,Wool Sweater,2,42.58,149.78
+2616,2024-12-27,Customer 33,North,Electronics,Wireless Earbuds,4,105.04,557.46
+1905,2024-07-19,Customer 35,East,Apparel,Wool Sweater,1,54.27,54.27
+2265,2024-10-08,Customer 51,East,Apparel,Running Shoes,3,55.91,167.73
+1255,2024-02-24,Customer 19,West,Books,Cookbook,2,14.47,28.94
+1091,2024-01-21,Customer 35,East,Electronics,Wireless Earbuds,4,141.02,564.08
+2351,2024-10-27,Customer 13,West,Electronics,Wireless Earbuds,2,136.35,272.7
+1856,2024-07-06,Customer 50,South,Home & Kitchen,Cookware Set,4,63.78,255.12
+1949,2024-07-30,Customer 4,West,Books,Fiction Novel,2,16.63,33.26
+2302,2024-10-18,Customer 5,West,Electronics,Laptop Stand,4,119.43,477.72
+2352,2024-10-27,Customer 51,South,Apparel,Cotton T-Shirt,3,45.96,137.88
+1370,2024-03-18,Customer 42,East,Apparel,Cotton T-Shirt,1,51.26,51.26
+2536,2024-12-10,Customer 52,South,Electronics,Bluetooth Speaker,1,104.54,142.53
+1585,2024-05-02,Customer 4,West,Electronics,Bluetooth Speaker,2,147.05,294.1
+2390,2024-11-06,Customer 37,West,Electronics,4K Monitor,4,123.62,889.82
+1552,2024-04-25,Customer 18,East,Sports,Yoga Mat,3,63.33,189.99
+2009,2024-08-12,Customer 16,North,Books,Self-Help Guide,1,17.65,17.65
+2358,2024-10-29,Customer 15,East,Apparel,Wool Sweater,4,43.67,174.68
+1423,2024-03-30,Customer 9,South,Books,Self-Help Guide,4,20.35,81.4
+1347,2024-03-13,Customer 32,West,Books,Fiction Novel,3,22.85,68.55
+1606,2024-05-07,Customer 52,East,Apparel,Running Shoes,1,51.8,51.8
+1421,2024-03-30,Customer 54,North,Apparel,Wool Sweater,1,39.09,39.09
+1716,2024-06-02,Customer 25,South,Home & Kitchen,Cookware Set,1,86.12,86.12
+2085,2024-08-28,Customer 34,West,Home & Kitchen,Air Fryer,3,56.54,169.62
+2259,2024-10-07,Customer 7,East,Home & Kitchen,Air Fryer,4,69.35,277.4
+2360,2024-10-29,Customer 35,North,Sports,Tennis Racket,2,48.65,97.3
+1981,2024-08-05,Customer 7,North,Home & Kitchen,Cookware Set,4,65.76,263.04
+2283,2024-10-13,Customer 22,East,Apparel,Denim Jacket,2,49.12,98.24
+2266,2024-10-09,Customer 60,West,Home & Kitchen,Blender,2,69.26,138.52
+1296,2024-03-03,Customer 35,East,Sports,Tennis Racket,3,58.2,174.6
+1791,2024-06-20,Customer 31,North,Apparel,Wool Sweater,1,45.0,45.0
+1115,2024-01-26,Customer 44,West,Sports,Yoga Mat,2,62.42,124.84
+2587,2024-12-22,Customer 2,South,Books,Fiction Novel,4,19.95,113.52
+2554,2024-12-14,Customer 60,East,Apparel,Denim Jacket,4,41.57,241.35
+1468,2024-04-08,Customer 34,South,Sports,Cycling Helmet,4,44.65,178.6
+1279,2024-02-29,Customer 21,North,Home & Kitchen,Blender,1,84.04,84.04
+1450,2024-04-04,Customer 46,East,Books,Cookbook,3,15.81,47.43
+1539,2024-04-22,Customer 55,South,Electronics,4K Monitor,1,105.97,105.97
+2212,2024-09-26,Customer 54,West,Sports,Dumbbell Set,4,62.03,248.12
+2318,2024-10-21,Customer 44,West,Sports,Dumbbell Set,2,48.87,97.74
+1825,2024-06-28,Customer 17,North,Books,Biography,3,20.28,60.84
+1514,2024-04-17,Customer 32,North,Sports,Dumbbell Set,1,58.76,58.76
+1482,2024-04-11,Customer 13,East,Apparel,Running Shoes,3,49.27,147.81
+1574,2024-04-30,Customer 58,East,Sports,Yoga Mat,1,51.42,51.42
+2334,2024-10-24,Customer 37,North,Apparel,Wool Sweater,2,56.89,113.78
+1866,2024-07-10,Customer 55,North,Apparel,Cotton T-Shirt,1,41.05,41.05
+2442,2024-11-18,Customer 46,East,Electronics,4K Monitor,4,145.23,931.81
+1387,2024-03-23,Customer 45,East,Apparel,Denim Jacket,4,38.03,152.12
+1202,2024-02-13,Customer 12,East,Home & Kitchen,Coffee Maker,2,88.26,176.52
+1502,2024-04-15,Customer 42,South,Books,Cookbook,4,16.93,67.72
+1857,2024-07-06,Customer 3,East,Home & Kitchen,Coffee Maker,4,66.84,267.36
+2427,2024-11-15,Customer 11,East,Books,Fiction Novel,2,14.77,39.15
+2071,2024-08-25,Customer 37,East,Electronics,Laptop Stand,2,145.52,291.04
+1109,2024-01-25,Customer 11,South,Apparel,Denim Jacket,1,39.73,39.73
+1142,2024-01-31,Customer 36,East,Sports,Yoga Mat,4,56.24,224.96
+1713,2024-06-01,Customer 45,West,Home & Kitchen,Cookware Set,4,75.58,302.32
+1401,2024-03-26,Customer 50,West,Electronics,Wireless Earbuds,4,134.82,539.28
+1158,2024-02-04,Customer 37,North,Home & Kitchen,Blender,4,87.27,349.08
+1787,2024-06-19,Customer 43,North,Electronics,Laptop Stand,2,133.29,266.58
+1937,2024-07-26,Customer 3,South,Books,Fiction Novel,3,23.11,69.33
+1571,2024-04-30,Customer 7,East,Electronics,4K Monitor,3,101.22,303.66
+2431,2024-11-15,Customer 36,North,Books,Self-Help Guide,4,17.44,111.6
+1894,2024-07-16,Customer 34,North,Apparel,Cotton T-Shirt,4,38.97,155.88
+1214,2024-02-15,Customer 45,North,Apparel,Denim Jacket,2,39.14,78.28
+2139,2024-09-11,Customer 10,North,Home & Kitchen,Coffee Maker,4,60.33,241.32
+2230,2024-10-01,Customer 13,South,Sports,Tennis Racket,4,53.58,214.32
+2511,2024-12-04,Customer 54,South,Sports,Yoga Mat,1,54.73,91.7
+1885,2024-07-15,Customer 49,North,Apparel,Denim Jacket,2,47.01,94.02
+1330,2024-03-10,Customer 31,West,Books,Fiction Novel,2,17.99,35.98
+1823,2024-06-27,Customer 54,East,Electronics,Laptop Stand,3,124.62,373.86
+2088,2024-08-29,Customer 16,West,Books,Cookbook,3,15.87,47.61
+2225,2024-09-30,Customer 33,North,Electronics,4K Monitor,1,103.54,103.54
+1886,2024-07-15,Customer 9,West,Books,Self-Help Guide,3,20.57,61.71
+1428,2024-03-31,Customer 31,South,Electronics,4K Monitor,2,117.75,235.5
+2537,2024-12-10,Customer 19,East,Books,Self-Help Guide,1,17.24,28.05
+2424,2024-11-14,Customer 37,East,Apparel,Running Shoes,3,52.62,278.01
+2600,2024-12-24,,West,Books,Self-Help Guide,3,16.25,74.1
+2285,2024-10-14,Customer 60,East,Apparel,Cotton T-Shirt,3,42.23,126.69
+1637,2024-05-14,Customer 57,West,Home & Kitchen,Coffee Maker,1,90.45,90.45
+2312,2024-10-20,Customer 9,South,Home & Kitchen,Air Fryer,1,64.53,64.53
+1845,2024-07-03,Customer 41,North,Home & Kitchen,Cookware Set,3,85.61,256.83
+2426,2024-11-15,Customer 36,South,Electronics,4K Monitor,2,99.45,263.65
+1595,2024-05-04,Customer 46,North,Books,Cookbook,3,18.71,56.13
+2606,2024-12-25,Customer 46,East,Books,Fiction Novel,2,20.37,61.5
+1447,2024-04-04,Customer 38,North,Sports,Dumbbell Set,3,49.43,148.29
+1877,2024-07-12,Customer 4,South,Books,Fiction Novel,4,21.79,87.16
+1790,2024-06-20,Customer 47,North,Electronics,4K Monitor,4,132.4,529.6
+2556,2024-12-14,Customer 46,South,Apparel,Running Shoes,2,47.31,165.99
+1516,2024-04-17,Customer 57,North,Electronics,Wireless Earbuds,3,103.54,310.62
+1563,2024-04-28,Customer 8,South,Electronics,Laptop Stand,2,155.82,311.64
+1890,2024-07-16,Customer 3,South,Electronics,Bluetooth Speaker,2,148.77,297.54
+1272,2024-02-27,Customer 56,North,Home & Kitchen,Blender,3,84.25,252.75
+2249,2024-10-05,Customer 56,North,Home & Kitchen,Air Fryer,2,74.9,149.8
+1638,2024-05-14,Customer 51,North,Apparel,Running Shoes,3,42.56,127.68
+1139,2024-01-31,Customer 29,North,Home & Kitchen,Cookware Set,4,72.03,288.12
+2633,2024-12-30,Customer 42,North,Home & Kitchen,Cookware Set,1,70.83,94.07
+1692,2024-05-26,Customer 5,South,Home & Kitchen,Blender,2,78.2,156.4
+2566,2024-12-17,Customer 27,South,Electronics,Laptop Stand,2,135.51,473.58
+1674,2024-05-23,Customer 11,South,Electronics,Laptop Stand,1,134.51,134.51
+1646,2024-05-17,Customer 59,East,Sports,Yoga Mat,4,69.5,278.0
+1431,2024-04-01,Customer 57,North,Apparel,Wool Sweater,4,54.54,218.16
+1999,2024-08-10,Customer 38,South,Apparel,Wool Sweater,3,43.35,130.05
+2529,2024-12-08,Customer 23,West,Books,Fiction Novel,1,20.35,31.86
+2314,2024-10-21,Customer 42,South,Electronics,4K Monitor,3,114.66,343.98
+2052,2024-08-20,Customer 48,West,Home & Kitchen,Blender,2,86.72,173.44
+1955,2024-08-01,Customer 39,East,Apparel,Wool Sweater,1,44.86,44.86
+1799,2024-06-22,Customer 2,West,Electronics,Bluetooth Speaker,1,147.8,147.8
+2496,2024-12-01,Customer 26,East,Sports,Yoga Mat,3,58.17,249.79
+2435,2024-11-17,Customer 28,North,Electronics,Bluetooth Speaker,2,111.51,377.63
+1915,2024-07-22,Customer 59,West,Home & Kitchen,Coffee Maker,2,71.7,143.4
+1611,2024-05-08,Customer 20,North,Electronics,Wireless Earbuds,1,97.3,97.3
+2271,2024-10-10,Customer 47,South,Apparel,Running Shoes,3,41.54,124.62
+2014,2024-08-13,Customer 12,East,Home & Kitchen,Cookware Set,4,74.43,297.72
+2141,2024-09-11,Customer 11,West,Apparel,Wool Sweater,2,48.11,96.22
+1869,2024-07-10,Customer 9,North,Sports,Dumbbell Set,2,44.45,88.9
+1128,2024-01-29,Customer 10,South,Home & Kitchen,Air Fryer,4,69.33,277.32
+1008,2024-01-02,Customer 30,South,Home & Kitchen,Blender,2,56.41,112.82
+1311,2024-03-05,Customer 53,South,Sports,Yoga Mat,2,68.43,136.86
+2583,2024-12-21,Customer 12,South,Electronics,Wireless Earbuds,4,104.94,588.18
+2326,2024-10-23,Customer 32,East,Apparel,Cotton T-Shirt,3,51.88,155.64
+1526,2024-04-19,Customer 6,East,Electronics,Bluetooth Speaker,2,125.93,251.86
+2169,2024-09-18,Customer 57,North,Electronics,Wireless Earbuds,2,147.46,294.92
+1805,2024-06-23,Customer 6,West,Home & Kitchen,Cookware Set,1,79.48,79.48
+1206,2024-02-13,Customer 49,South,Books,Fiction Novel,2,21.43,42.86
+2623,2024-12-28,Customer 47,East,Sports,Dumbbell Set,1,53.59,73.42
+1997,2024-08-09,Customer 30,South,Books,Cookbook,4,21.98,87.92
+2287,2024-10-14,Customer 16,North,Apparel,Wool Sweater,1,39.83,39.83
+1720,2024-06-02,Customer 6,North,Home & Kitchen,Air Fryer,3,79.54,238.62
+1203,2024-02-13,Customer 48,North,Home & Kitchen,Cookware Set,1,73.05,73.05
+1054,2024-01-13,Customer 28,North,Sports,Yoga Mat,2,69.8,139.6
+2216,2024-09-28,Customer 12,East,Electronics,Wireless Earbuds,4,142.11,568.44
+1488,2024-04-12,Customer 12,South,Books,Cookbook,1,14.52,14.52
+1540,2024-04-22,Customer 53,West,Electronics,Laptop Stand,2,131.12,262.24
+2069,2024-08-25,Customer 44,East,Apparel,Cotton T-Shirt,2,37.69,75.38
+1679,2024-05-24,Customer 14,North,Apparel,Wool Sweater,4,48.79,195.16
+1189,2024-02-10,Customer 46,East,Apparel,Denim Jacket,4,41.96,167.84
+1108,2024-01-25,Customer 43,West,Sports,Dumbbell Set,3,64.23,192.69
+1537,2024-04-21,Customer 40,West,Sports,Dumbbell Set,2,64.5,129.0
+1521,2024-04-19,Customer 34,North,Apparel,Denim Jacket,1,43.46,43.46
+2154,2024-09-14,Customer 44,East,Electronics,Bluetooth Speaker,1,144.6,144.6
+1550,2024-04-24,Customer 9,South,Home & Kitchen,Coffee Maker,4,56.65,226.6
+1022,2024-01-06,Customer 56,West,Home & Kitchen,Air Fryer,1,62.32,62.32
+1838,2024-07-01,Customer 10,South,Electronics,Bluetooth Speaker,2,126.88,253.76
+1376,2024-03-19,Customer 15,North,Electronics,4K Monitor,2,125.68,251.36
+2119,2024-09-05,Customer 9,East,Sports,Dumbbell Set,1,69.23,69.23
+1594,2024-05-04,Customer 4,East,Apparel,Wool Sweater,2,48.96,97.92
+2464,2024-11-24,Customer 20,South,Books,Biography,4,20.23,143.6
+1205,2024-02-13,Customer 36,South,Home & Kitchen,Cookware Set,4,82.28,329.12
+1093,2024-01-21,Customer 5,North,Books,Biography,2,14.69,29.38
+1224,2024-02-16,Customer 19,South,Books,Fiction Novel,4,22.91,91.64
+2294,2024-10-16,Customer 11,East,Books,Cookbook,4,17.83,71.32
+2166,2024-09-17,Customer 40,East,Home & Kitchen,Blender,1,71.43,71.43
+2022,2024-08-14,Customer 24,North,Books,Cookbook,3,21.31,63.93
+2379,2024-11-03,Customer 4,South,Sports,Dumbbell Set,4,61.45,326.0
+1440,2024-04-03,Customer 5,North,Home & Kitchen,Coffee Maker,2,67.31,134.62
+2477,2024-11-27,Customer 49,East,Books,Fiction Novel,3,21.14,112.29
+1588,2024-05-02,Customer 1,South,Sports,Yoga Mat,2,62.2,124.4
+1446,2024-04-04,Customer 28,South,Home & Kitchen,Air Fryer,2,67.63,135.26
+1871,2024-07-10,Customer 11,West,Home & Kitchen,Coffee Maker,2,86.91,173.82
+1880,2024-07-13,Customer 24,North,Apparel,Wool Sweater,2,47.32,94.64
+1092,2024-01-21,Customer 28,North,Home & Kitchen,Cookware Set,4,63.6,254.4
+1567,2024-04-29,Customer 8,North,Apparel,Denim Jacket,1,43.28,43.28
+2102,2024-09-01,Customer 15,East,Electronics,Laptop Stand,4,118.26,473.04
+1270,2024-02-26,Customer 40,South,Books,Self-Help Guide,4,17.01,68.04
+2151,2024-09-13,Customer 29,South,Books,Biography,3,14.97,44.91
+2369,2024-11-01,,East,Apparel,Wool Sweater,4,53.05,279.08
+2488,2024-11-29,Customer 15,North,Sports,Dumbbell Set,3,50.3,244.61
+1075,2024-01-17,Customer 27,North,Books,Fiction Novel,1,17.78,17.78
+2533,2024-12-09,Customer 3,North,Books,Self-Help Guide,4,20.23,130.63
+1654,2024-05-19,Customer 46,West,Home & Kitchen,Air Fryer,4,65.04,260.16
+2248,2024-10-05,Customer 15,North,Home & Kitchen,Cookware Set,2,68.36,136.72
+2625,2024-12-29,Customer 53,North,Sports,Yoga Mat,2,65.69,215.12
+2288,2024-10-14,,North,Books,Cookbook,3,18.34,55.02
+1707,2024-05-30,Customer 36,North,Sports,Cycling Helmet,4,67.51,270.04
+2332,2024-10-24,Customer 35,East,Books,Biography,4,23.1,92.4
+1560,2024-04-27,Customer 50,North,Home & Kitchen,Blender,1,79.61,79.61
+2610,2024-12-26,Customer 6,East,Sports,Dumbbell Set,1,50.38,88.57
+1884,2024-07-14,Customer 39,South,Apparel,Wool Sweater,3,45.07,135.21
+2183,2024-09-21,Customer 10,South,Home & Kitchen,Blender,3,64.23,192.69
+2629,2024-12-29,Customer 29,West,Home & Kitchen,Blender,4,74.93,521.38
+2516,2024-12-05,Customer 57,South,Apparel,Running Shoes,2,49.37,175.14
+1246,2024-02-21,Customer 38,East,Electronics,Wireless Earbuds,1,105.35,105.35
+2510,2024-12-04,Customer 29,West,Books,Cookbook,1,23.25,34.82
+2140,2024-09-11,Customer 19,South,Sports,Tennis Racket,4,52.2,208.8
+1469,2024-04-08,Customer 18,West,Books,Cookbook,4,16.45,65.8
+2622,2024-12-28,Customer 48,East,Electronics,Bluetooth Speaker,3,110.63,488.48
+2499,2024-12-02,Customer 60,North,Books,Cookbook,4,18.61,125.07
+2240,2024-10-04,Customer 12,East,Books,Self-Help Guide,1,18.49,18.49
+1130,2024-01-29,Customer 43,North,Home & Kitchen,Cookware Set,2,86.11,172.22
+2372,2024-11-02,Customer 50,West,Apparel,Cotton T-Shirt,1,45.44,64.32
+1024,2024-01-06,Customer 25,West,Electronics,4K Monitor,1,98.28,98.28
+1583,2024-05-02,Customer 32,South,Electronics,Wireless Earbuds,2,116.13,232.26
+1391,2024-03-24,Customer 36,East,Sports,Dumbbell Set,4,52.19,208.76
+2031,2024-08-16,Customer 30,East,Apparel,Denim Jacket,3,36.95,110.85
+1807,2024-06-23,Customer 26,East,Sports,Yoga Mat,2,46.4,92.8
+2493,2024-11-30,Customer 50,West,Books,Self-Help Guide,4,15.66,110.71
+1935,2024-07-26,Customer 59,West,Books,Self-Help Guide,4,21.54,86.16
+1025,2024-01-06,Customer 35,West,Apparel,Wool Sweater,2,48.32,96.64
+1155,2024-02-04,Customer 1,West,Books,Cookbook,1,15.87,15.87
+2557,2024-12-15,Customer 6,South,Home & Kitchen,Air Fryer,1,81.74,111.27
+2559,2024-12-15,Customer 51,East,Apparel,Running Shoes,4,44.56,306.98
+2036,2024-08-17,Customer 6,East,Electronics,Laptop Stand,4,124.6,498.4
+1542,2024-04-22,Customer 20,North,Sports,Cycling Helmet,2,66.02,132.04
+1236,2024-02-19,Customer 16,East,Apparel,Running Shoes,4,58.31,233.24
+2322,2024-10-22,Customer 43,North,Electronics,4K Monitor,3,152.44,457.32
+1842,2024-07-01,Customer 9,North,Home & Kitchen,Blender,2,83.32,166.64
+2221,2024-09-29,Customer 21,North,Sports,Yoga Mat,1,50.84,50.84
+1706,2024-05-29,Customer 13,North,Apparel,Wool Sweater,4,41.55,166.2
+2311,2024-10-20,Customer 41,North,Electronics,Wireless Earbuds,1,146.22,146.22
+1445,2024-04-03,Customer 36,South,Apparel,Denim Jacket,1,45.14,45.14
+2309,2024-10-20,Customer 30,North,Apparel,Cotton T-Shirt,1,37.08,37.08
+2471,2024-11-25,Customer 42,West,Apparel,Running Shoes,2,57.66,159.36
+2209,2024-09-26,Customer 18,South,Sports,Yoga Mat,4,66.53,266.12
+1927,2024-07-24,Customer 36,West,Books,Biography,3,21.2,63.6
+1179,2024-02-08,Customer 24,North,Electronics,Bluetooth Speaker,1,153.77,153.77
+1629,2024-05-12,Customer 43,West,Books,Self-Help Guide,4,14.61,58.44
+2473,2024-11-26,Customer 47,South,Home & Kitchen,Blender,2,86.58,275.97
+2454,2024-11-21,Customer 5,North,Home & Kitchen,Coffee Maker,1,66.75,104.63
+1010,2024-01-03,Customer 38,North,Apparel,Denim Jacket,4,39.48,157.92
+1354,2024-03-14,Customer 22,West,Home & Kitchen,Coffee Maker,1,65.84,65.84
+1067,2024-01-16,Customer 36,East,Home & Kitchen,Cookware Set,1,69.32,69.32
+2082,2024-08-27,Customer 29,West,Sports,Cycling Helmet,4,45.5,182.0
+2037,2024-08-18,Customer 42,East,Home & Kitchen,Coffee Maker,4,80.94,323.76
+1145,2024-02-01,Customer 54,East,Apparel,Running Shoes,3,40.57,121.71
+2237,2024-10-02,Customer 43,South,Apparel,Cotton T-Shirt,4,37.12,148.48
+1415,2024-03-29,Customer 29,South,Books,Cookbook,3,20.21,60.63
+1392,2024-03-24,Customer 32,South,Sports,Cycling Helmet,3,52.99,158.97
+1506,2024-04-15,Customer 59,North,Apparel,Wool Sweater,3,57.99,173.97
+1300,2024-03-03,Customer 25,West,Books,Fiction Novel,3,15.06,45.18
+1523,2024-04-19,Customer 42,South,Home & Kitchen,Blender,2,82.37,164.74
+2586,2024-12-22,Customer 56,North,Sports,Dumbbell Set,1,44.07,68.63
+2228,2024-09-30,Customer 34,South,Apparel,Running Shoes,2,42.98,85.96
+1437,2024-04-02,Customer 28,East,Sports,Dumbbell Set,3,69.9,209.7
+2267,2024-10-09,Customer 25,East,Apparel,Cotton T-Shirt,1,47.95,47.95
+1956,2024-08-01,Customer 22,West,Apparel,Cotton T-Shirt,2,56.54,113.08
+1962,2024-08-02,Customer 9,West,Home & Kitchen,Cookware Set,1,60.8,60.8
+2157,2024-09-15,Customer 41,North,Books,Fiction Novel,1,14.82,14.82
+1138,2024-01-31,Customer 60,North,Home & Kitchen,Air Fryer,2,84.98,169.96
+2380,2024-11-03,Customer 30,West,Apparel,Running Shoes,4,49.98,330.54
+1195,2024-02-11,Customer 27,East,Home & Kitchen,Cookware Set,1,76.4,76.4
+2630,2024-12-29,Customer 29,West,Sports,Cycling Helmet,4,57.85,370.98
+2568,2024-12-18,Customer 19,East,Sports,Dumbbell Set,4,57.91,400.97
+1449,2024-04-04,Customer 46,South,Apparel,Cotton T-Shirt,2,54.25,108.5
+1959,2024-08-01,Customer 8,West,Home & Kitchen,Blender,1,57.98,57.98
+2304,2024-10-19,Customer 38,West,Apparel,Running Shoes,2,50.61,101.22
+2117,2024-09-05,Customer 9,West,Sports,Dumbbell Set,2,59.33,118.66
+2100,2024-09-01,Customer 34,North,Electronics,Laptop Stand,4,130.39,521.56
+1174,2024-02-07,Customer 3,South,Books,Self-Help Guide,3,22.02,66.06
+1222,2024-02-16,Customer 56,North,Sports,Cycling Helmet,4,55.31,221.24
+1254,2024-02-23,Customer 59,South,Apparel,Wool Sweater,4,55.49,221.96
+2495,2024-12-01,Customer 8,West,Electronics,4K Monitor,4,136.21,845.07
+1385,2024-03-22,Customer 57,South,Electronics,4K Monitor,4,110.02,440.08
+1979,2024-08-05,Customer 5,North,Electronics,Bluetooth Speaker,2,97.52,195.04
+2542,2024-12-11,Customer 8,West,Books,Cookbook,3,18.07,80.11
+1903,2024-07-19,Customer 16,South,Sports,Dumbbell Set,4,48.92,195.68
+2474,2024-11-26,Customer 26,South,Sports,Tennis Racket,2,50.79,177.98
+1034,2024-01-08,Customer 44,North,Books,Self-Help Guide,1,16.19,16.19
+1711,2024-05-31,Customer 13,North,Apparel,Cotton T-Shirt,4,49.94,199.76
+2375,2024-11-02,Customer 46,South,Apparel,Denim Jacket,3,37.58,186.41
+1837,2024-07-01,Customer 53,North,Electronics,4K Monitor,4,153.19,612.76
+2482,2024-11-27,Customer 60,East,Books,Biography,2,21.91,67.57
+1265,2024-02-26,Customer 59,South,Apparel,Denim Jacket,2,37.28,74.56
+1557,2024-04-27,Customer 36,North,Apparel,Running Shoes,1,53.61,53.61
+1089,2024-01-20,Customer 55,East,Electronics,4K Monitor,4,151.23,604.92
+2434,2024-11-16,Customer 32,North,Sports,Tennis Racket,2,48.7,143.86
+1777,2024-06-17,Customer 36,East,Electronics,Wireless Earbuds,1,100.89,100.89
+1919,2024-07-23,Customer 30,West,Home & Kitchen,Air Fryer,4,66.86,267.44
+2253,2024-10-07,Customer 42,West,Home & Kitchen,Coffee Maker,4,86.93,347.72
+1855,2024-07-06,Customer 5,East,Apparel,Denim Jacket,1,53.04,53.04
+1000,2024-01-01,Customer 35,West,Sports,Cycling Helmet,4,50.19,200.76
+2491,2024-11-30,Customer 4,North,Apparel,Cotton T-Shirt,1,51.84,82.21
+1822,2024-06-27,Customer 11,South,Electronics,4K Monitor,4,98.79,395.16
+1613,2024-05-09,Customer 1,West,Apparel,Cotton T-Shirt,4,55.13,220.52
+1005,2024-01-01,Customer 60,South,Sports,Cycling Helmet,2,48.41,96.82
+1342,2024-03-12,Customer 12,South,Electronics,Laptop Stand,2,149.4,298.8
+2040,2024-08-18,Customer 13,West,Home & Kitchen,Coffee Maker,4,61.56,246.24
+1101,2024-01-23,Customer 24,West,Home & Kitchen,Blender,4,86.57,346.28
+1876,2024-07-11,Customer 56,West,Apparel,Running Shoes,2,43.44,86.88
+1039,2024-01-10,Customer 57,South,Sports,Tennis Racket,4,55.32,221.28
+1528,2024-04-20,Customer 27,West,Books,Cookbook,1,19.15,19.15
+1665,2024-05-21,Customer 12,West,Sports,Tennis Racket,1,50.52,50.52
+1452,2024-04-04,Customer 45,South,Apparel,Denim Jacket,1,50.78,50.78
+1780,2024-06-18,Customer 27,North,Apparel,Cotton T-Shirt,3,50.4,151.2
+1660,2024-05-20,Customer 26,East,Books,Fiction Novel,1,17.59,17.59
+1124,2024-01-28,Customer 49,South,Electronics,Bluetooth Speaker,1,133.22,133.22
+1177,2024-02-08,Customer 18,West,Sports,Tennis Racket,3,61.48,184.44
+1136,2024-01-30,Customer 54,South,Apparel,Denim Jacket,2,51.42,102.84
+1336,2024-03-11,Customer 43,East,Sports,Dumbbell Set,4,70.61,282.44
+1118,2024-01-27,Customer 4,South,Books,Cookbook,3,19.11,57.33
+2619,2024-12-27,Customer 13,East,Home & Kitchen,Air Fryer,3,90.8,449.43
+2171,2024-09-19,Customer 54,North,Home & Kitchen,Blender,1,84.97,84.97
+2523,2024-12-07,Customer 32,West,Home & Kitchen,Cookware Set,3,67.52,340.42
+1505,2024-04-15,Customer 4,North,Apparel,Running Shoes,3,54.15,162.45
+2376,2024-11-02,Customer 53,East,Home & Kitchen,Coffee Maker,4,58.55,305.89
+1617,2024-05-10,Customer 14,West,Sports,Cycling Helmet,4,63.15,252.6
+1351,2024-03-14,Customer 7,West,Books,Cookbook,1,18.54,18.54
+1624,2024-05-11,Customer 57,South,Home & Kitchen,Coffee Maker,2,87.32,174.64
+1192,2024-02-11,Customer 5,North,Electronics,Wireless Earbuds,1,153.21,153.21
+2522,2024-12-07,Customer 54,North,Sports,Cycling Helmet,2,68.1,178.27
+2115,2024-09-04,Customer 25,West,Books,Fiction Novel,4,17.09,68.36
+2423,2024-11-13,Customer 39,West,Home & Kitchen,Blender,3,84.09,391.71
+1914,2024-07-21,Customer 13,East,Apparel,Cotton T-Shirt,1,45.32,45.32
+1135,2024-01-30,Customer 17,West,Home & Kitchen,Cookware Set,4,69.2,276.8
+1244,2024-02-21,Customer 39,North,Sports,Tennis Racket,4,52.75,211.0
+1460,2024-04-06,Customer 12,North,Home & Kitchen,Coffee Maker,2,68.73,137.46
+1041,2024-01-10,Customer 45,West,Home & Kitchen,Blender,2,84.21,168.42
+1723,2024-06-04,Customer 3,South,Electronics,4K Monitor,4,123.87,495.48
+1698,2024-05-28,Customer 30,North,Sports,Tennis Racket,3,51.22,153.66
+1636,2024-05-14,Customer 25,East,Apparel,Running Shoes,2,55.24,110.48
+1358,2024-03-15,Customer 43,South,Apparel,Cotton T-Shirt,3,57.59,172.77
+2029,2024-08-15,Customer 39,South,Electronics,Laptop Stand,1,113.75,113.75
+1297,2024-03-03,Customer 29,East,Apparel,Wool Sweater,1,42.41,42.41
+2148,2024-09-13,,East,Electronics,4K Monitor,3,118.97,356.91
+2410,2024-11-09,Customer 18,East,Apparel,Denim Jacket,4,48.61,253.78
+1758,2024-06-13,Customer 47,West,Apparel,Denim Jacket,2,54.77,109.54
+1517,2024-04-17,Customer 4,West,Home & Kitchen,Cookware Set,2,80.96,161.92
+2635,2024-12-31,Customer 16,South,Sports,Dumbbell Set,3,49.72,235.29
+1558,2024-04-27,Customer 48,North,Home & Kitchen,Blender,3,87.53,262.59
+2193,2024-09-23,Customer 41,South,Sports,Dumbbell Set,1,62.78,62.78
+1813,2024-06-25,Customer 49,North,Books,Fiction Novel,4,22.78,91.12
+1618,2024-05-10,Customer 55,South,Home & Kitchen,Blender,2,64.67,129.34
+1465,2024-04-08,Customer 11,East,Sports,Dumbbell Set,4,65.5,262.0
+1410,2024-03-27,Customer 28,West,Sports,Cycling Helmet,1,57.61,57.61
+2160,2024-09-16,Customer 19,East,Books,Biography,1,18.35,18.35
+2448,2024-11-20,Customer 20,North,Electronics,4K Monitor,1,141.27,219.54
+2604,2024-12-25,Customer 22,South,Apparel,Running Shoes,4,40.17,260.22
+2150,2024-09-13,,South,Books,Self-Help Guide,3,16.03,48.09
+1038,2024-01-10,Customer 54,West,Books,Self-Help Guide,4,19.63,78.52
+1678,2024-05-23,Customer 29,South,Electronics,Wireless Earbuds,2,143.85,287.7
+1079,2024-01-17,Customer 16,South,Books,Fiction Novel,3,21.13,63.39
+2430,2024-11-15,Customer 56,North,Apparel,Running Shoes,3,56.36,284.98
+1686,2024-05-25,Customer 12,South,Sports,Cycling Helmet,2,54.92,109.84
+1491,2024-04-13,Customer 56,West,Apparel,Running Shoes,4,49.95,199.8
+1824,2024-06-27,Customer 5,North,Electronics,Wireless Earbuds,3,101.35,304.05
+2501,2024-12-03,Customer 40,North,Books,Fiction Novel,1,20.08,34.47
+1899,2024-07-18,Customer 44,East,Home & Kitchen,Coffee Maker,4,66.25,265.0
+1527,2024-04-20,Customer 46,South,Sports,Yoga Mat,2,61.34,122.68
+1682,2024-05-24,Customer 53,East,Books,Self-Help Guide,1,21.23,21.23
+1759,2024-06-14,Customer 55,South,Home & Kitchen,Air Fryer,2,63.47,126.94
+2400,2024-11-07,Customer 13,West,Apparel,Denim Jacket,2,42.59,141.24
+2065,2024-08-23,Customer 7,North,Electronics,Wireless Earbuds,2,128.67,257.34
+2120,2024-09-05,Customer 50,East,Home & Kitchen,Blender,2,77.28,154.56
+2110,2024-09-03,Customer 25,South,Apparel,Running Shoes,3,39.44,118.32
+1693,2024-05-26,Customer 37,East,Apparel,Wool Sweater,3,49.81,149.43
+2466,2024-11-25,Customer 32,North,Sports,Yoga Mat,4,52.95,380.3
+1420,2024-03-29,Customer 59,South,Home & Kitchen,Cookware Set,3,86.25,258.75
+1831,2024-06-29,Customer 13,East,Home & Kitchen,Cookware Set,2,81.16,162.32
+2208,2024-09-25,Customer 14,North,Apparel,Cotton T-Shirt,4,56.48,225.92
+2239,2024-10-03,Customer 18,East,Sports,Cycling Helmet,4,60.74,242.96
+2463,2024-11-24,Customer 14,North,Home & Kitchen,Air Fryer,2,76.61,216.42
+2574,2024-12-20,Customer 14,North,Sports,Tennis Racket,4,70.42,478.49
+1590,2024-05-03,Customer 44,East,Electronics,Laptop Stand,3,122.65,367.95
+2377,2024-11-02,Customer 6,North,Sports,Tennis Racket,4,70.85,423.17
+1457,2024-04-06,Customer 43,East,Sports,Yoga Mat,2,63.85,127.7
+1766,2024-06-16,Customer 28,South,Electronics,4K Monitor,4,128.3,513.2
+1111,2024-01-25,Customer 10,East,Books,Biography,2,15.22,30.44
+1911,2024-07-21,Customer 47,South,Sports,Yoga Mat,4,54.65,218.6
+1406,2024-03-27,Customer 42,South,Electronics,Laptop Stand,1,102.11,102.11
+2051,2024-08-20,Customer 13,North,Books,Fiction Novel,1,18.02,18.02
+2217,2024-09-28,Customer 54,West,Sports,Yoga Mat,2,45.24,90.48
+1479,2024-04-11,Customer 52,South,Apparel,Cotton T-Shirt,3,51.17,153.51
+2433,2024-11-16,Customer 22,East,Home & Kitchen,Cookware Set,3,70.9,335.7
+2081,2024-08-27,Customer 5,South,Sports,Tennis Racket,3,71.15,213.45
+1102,2024-01-23,Customer 16,North,Sports,Dumbbell Set,1,47.11,47.11
+1454,2024-04-05,Customer 3,East,Electronics,Laptop Stand,4,112.07,448.28
+2345,2024-10-26,Customer 14,East,Sports,Dumbbell Set,2,69.53,139.06
+2130,2024-09-08,Customer 14,West,Sports,Cycling Helmet,1,49.83,49.83
+1663,2024-05-21,Customer 17,South,Apparel,Denim Jacket,2,46.39,92.78
+2603,2024-12-24,Customer 31,East,Sports,Dumbbell Set,2,46.05,162.35
+1874,2024-07-11,Customer 29,South,Books,Biography,3,17.37,52.11
+2531,2024-12-08,,South,Sports,Yoga Mat,1,66.38,93.74
+1742,2024-06-09,Customer 31,West,Books,Fiction Novel,2,16.11,32.22
+2427,2024-11-15,Customer 11,East,Books,Fiction Novel,2,14.77,39.15
+1756,2024-06-12,Customer 37,West,Sports,Dumbbell Set,4,65.7,262.8
+2262,2024-10-08,Customer 51,East,Home & Kitchen,Coffee Maker,1,68.26,68.26
+1053,2024-01-12,Customer 19,North,Electronics,Wireless Earbuds,3,105.96,317.88
+2558,2024-12-15,Customer 52,North,Electronics,Wireless Earbuds,4,111.34,798.73
+2409,2024-11-09,Customer 41,West,Books,Fiction Novel,1,14.5,21.31
+1114,2024-01-25,Customer 14,West,Sports,Tennis Racket,2,55.41,110.82
+1068,2024-01-16,Customer 40,North,Books,Fiction Novel,3,17.79,53.37
+2403,2024-11-08,Customer 8,West,Sports,Tennis Racket,1,48.74,63.57
+1546,2024-04-23,Customer 42,West,Sports,Dumbbell Set,4,70.82,283.28
+1717,2024-06-02,Customer 59,West,Books,Fiction Novel,3,22.49,67.47
+2535,2024-12-10,Customer 48,East,Electronics,Laptop Stand,4,103.19,589.66
+1726,2024-06-04,Customer 59,East,Sports,Yoga Mat,2,50.8,101.6
+1333,2024-03-11,Customer 18,North,Electronics,Bluetooth Speaker,4,149.62,598.48
+1649,2024-05-18,Customer 43,East,Sports,Yoga Mat,2,63.17,126.34
+1271,2024-02-27,Customer 46,South,Books,Self-Help Guide,3,17.41,52.23
+2132,2024-09-08,Customer 17,East,Sports,Cycling Helmet,2,60.12,120.24
+2441,2024-11-18,Customer 56,East,Home & Kitchen,Coffee Maker,3,63.76,302.87
+1786,2024-06-19,Customer 50,East,Apparel,Cotton T-Shirt,2,44.54,89.08
+1252,2024-02-23,Customer 42,South,Electronics,Wireless Earbuds,4,143.19,572.76
+1215,2024-02-15,Customer 19,South,Apparel,Wool Sweater,3,57.05,171.15
+1784,2024-06-18,Customer 6,North,Electronics,Bluetooth Speaker,2,133.38,266.76
+2307,2024-10-20,Customer 19,South,Apparel,Running Shoes,1,50.53,50.53
+1134,2024-01-29,,South,Home & Kitchen,Blender,2,69.01,138.02
+2063,2024-08-22,Customer 50,West,Apparel,Cotton T-Shirt,4,51.02,204.08
+1954,2024-07-31,Customer 60,North,Sports,Tennis Racket,4,69.93,279.72
+2234,2024-10-02,Customer 58,West,Sports,Cycling Helmet,1,51.74,51.74
+2028,2024-08-15,Customer 40,West,Electronics,Bluetooth Speaker,4,100.26,401.04
+2129,2024-09-08,Customer 21,West,Home & Kitchen,Air Fryer,2,57.68,115.36
+2106,2024-09-02,Customer 10,West,Books,Self-Help Guide,1,16.2,16.2
+1658,2024-05-19,Customer 18,South,Books,Self-Help Guide,2,14.58,29.16
+1127,2024-01-28,Customer 26,South,Apparel,Wool Sweater,2,53.0,106.0
+2344,2024-10-26,Customer 1,West,Electronics,4K Monitor,4,132.02,528.08
+2280,2024-10-12,Customer 2,South,Books,Biography,2,16.53,33.06
+2200,2024-09-24,Customer 15,North,Sports,Cycling Helmet,3,71.3,213.9
+2492,2024-11-30,Customer 59,North,Home & Kitchen,Coffee Maker,2,63.49,212.62
+2223,2024-09-29,,North,Books,Cookbook,3,14.82,44.46
+1237,2024-02-19,Customer 28,South,Apparel,Cotton T-Shirt,3,58.29,174.87
+2483,2024-11-28,Customer 51,East,Home & Kitchen,Blender,3,83.04,417.61
+2614,2024-12-26,Customer 38,South,Apparel,Cotton T-Shirt,2,57.7,162.24
+1459,2024-04-06,Customer 27,South,Sports,Dumbbell Set,3,58.24,174.72
+2538,2024-12-11,Customer 36,East,Electronics,Laptop Stand,3,142.64,580.38
+1950,2024-07-30,Customer 26,South,Books,Biography,4,20.69,82.76
+1055,2024-01-13,Customer 49,East,Books,Self-Help Guide,2,19.9,39.8
+1769,2024-06-16,Customer 51,North,Home & Kitchen,Blender,2,86.56,173.12
+1074,2024-01-17,Customer 46,South,Apparel,Wool Sweater,4,49.95,199.8
+2274,2024-10-11,Customer 10,West,Home & Kitchen,Coffee Maker,4,67.01,268.04
+1105,2024-01-24,,North,Home & Kitchen,Cookware Set,2,77.0,154.0
+1163,2024-02-06,Customer 41,West,Sports,Cycling Helmet,2,70.19,140.38
+2205,2024-09-25,Customer 47,North,Apparel,Running Shoes,1,58.19,58.19
+2072,2024-08-25,Customer 33,South,Books,Cookbook,3,22.08,66.24
+1461,2024-04-06,Customer 27,East,Home & Kitchen,Cookware Set,3,71.83,215.49
+2270,2024-10-10,Customer 39,East,Sports,Yoga Mat,4,68.01,272.04
+1639,2024-05-15,Customer 21,East,Home & Kitchen,Blender,1,63.82,63.82
+2394,2024-11-06,Customer 4,West,Sports,Dumbbell Set,4,46.82,287.44
+2631,2024-12-30,Customer 58,South,Electronics,Bluetooth Speaker,3,99.99,404.09
+2292,2024-10-16,Customer 18,South,Electronics,Wireless Earbuds,4,127.27,509.08
+1518,2024-04-17,Customer 33,East,Electronics,Laptop Stand,2,145.35,290.7
+2374,2024-11-02,Customer 29,East,Apparel,Denim Jacket,2,45.22,117.67
+1591,2024-05-03,Customer 57,North,Sports,Tennis Racket,2,67.73,135.46
+2238,2024-10-03,Customer 3,West,Electronics,4K Monitor,1,100.17,100.17
+1929,2024-07-25,Customer 14,West,Electronics,Laptop Stand,1,115.96,115.96
+1230,2024-02-18,Customer 42,West,Apparel,Cotton T-Shirt,2,43.27,86.54
+1770,2024-06-16,Customer 51,East,Sports,Dumbbell Set,2,59.91,119.82
+1412,2024-03-28,Customer 45,East,Home & Kitchen,Cookware Set,3,80.46,241.38
+2549,2024-12-13,Customer 12,South,Electronics,Bluetooth Speaker,4,134.62,827.1
+1987,2024-08-07,Customer 18,South,Electronics,Bluetooth Speaker,1,100.68,100.68
+1555,2024-04-26,Customer 57,South,Books,Cookbook,2,19.48,38.96
+1543,2024-04-22,Customer 53,West,Apparel,Wool Sweater,3,44.27,132.81
+2059,2024-08-22,Customer 31,East,Home & Kitchen,Coffee Maker,1,70.92,70.92
+1536,2024-04-21,Customer 34,East,Electronics,4K Monitor,1,148.8,148.8
+2126,2024-09-06,Customer 40,West,Electronics,4K Monitor,1,128.77,128.77
+2188,2024-09-22,Customer 42,East,Home & Kitchen,Air Fryer,3,71.8,215.4
+2125,2024-09-06,Customer 7,South,Electronics,Laptop Stand,2,137.27,274.54
+2293,2024-10-16,Customer 30,East,Electronics,Wireless Earbuds,2,99.33,198.66
+1644,2024-05-17,Customer 56,East,Books,Fiction Novel,4,18.13,72.52
+2417,2024-11-10,Customer 25,West,Home & Kitchen,Cookware Set,2,86.78,277.67
+2327,2024-10-23,Customer 21,North,Apparel,Denim Jacket,2,57.91,115.82
+1958,2024-08-01,Customer 21,West,Electronics,Wireless Earbuds,4,149.75,599.0
+1664,2024-05-21,Customer 2,South,Home & Kitchen,Coffee Maker,4,80.36,321.44
+2187,2024-09-22,Customer 8,West,Home & Kitchen,Air Fryer,2,80.53,161.06
+2111,2024-09-03,Customer 45,West,Electronics,Wireless Earbuds,2,147.43,294.86
+1771,2024-06-17,Customer 46,South,Sports,Yoga Mat,3,52.0,156.0
+2199,2024-09-24,Customer 45,North,Apparel,Denim Jacket,3,46.57,139.71
+2443,2024-11-18,Customer 43,West,Sports,Cycling Helmet,2,45.69,131.63
+1261,2024-02-25,Customer 22,West,Home & Kitchen,Cookware Set,4,60.37,241.48
+1294,2024-03-02,Customer 16,West,Home & Kitchen,Blender,4,81.2,324.8
+1721,2024-06-03,Customer 28,South,Sports,Dumbbell Set,4,61.23,244.92
+2301,2024-10-18,Customer 26,South,Books,Biography,1,22.62,22.62
+2124,2024-09-06,Customer 7,West,Home & Kitchen,Air Fryer,4,73.42,293.68
+2210,2024-09-26,Customer 8,West,Apparel,Denim Jacket,2,45.2,90.4
+1159,2024-02-04,Customer 3,South,Home & Kitchen,Blender,1,77.01,77.01
+1650,2024-05-18,Customer 18,West,Apparel,Running Shoes,4,49.86,199.44
+2363,2024-10-30,Customer 34,East,Electronics,Bluetooth Speaker,4,141.2,564.8
+1694,2024-05-26,Customer 48,South,Sports,Yoga Mat,2,67.22,134.44
+1909,2024-07-20,Customer 14,West,Home & Kitchen,Blender,2,66.07,132.14
+2596,2024-12-23,Customer 15,West,Home & Kitchen,Blender,3,61.77,277.47
+1868,2024-07-10,,South,Sports,Cycling Helmet,2,45.26,90.52
+2395,2024-11-07,Customer 10,West,Apparel,Wool Sweater,4,36.35,218.5
+1014,2024-01-04,Customer 4,North,Sports,Cycling Helmet,3,52.88,158.64
+1975,2024-08-04,Customer 52,South,Books,Fiction Novel,4,22.97,91.88
+1462,2024-04-07,Customer 1,East,Apparel,Running Shoes,4,42.61,170.44
+2397,2024-11-07,Customer 35,North,Home & Kitchen,Cookware Set,4,72.93,406.41
+2136,2024-09-10,Customer 31,West,Electronics,4K Monitor,4,111.14,444.56
+1619,2024-05-10,Customer 3,North,Home & Kitchen,Coffee Maker,3,89.36,268.08
+2354,2024-10-28,Customer 19,East,Sports,Dumbbell Set,3,68.11,204.33
+2203,2024-09-25,Customer 26,North,Home & Kitchen,Air Fryer,2,65.05,130.1
+1873,2024-07-11,Customer 16,East,Apparel,Running Shoes,2,40.58,81.16
+1466,2024-04-08,Customer 43,West,Sports,Dumbbell Set,3,44.48,133.44
+1753,2024-06-11,Customer 27,East,Electronics,Bluetooth Speaker,1,137.55,137.55
+2278,2024-10-11,Customer 35,North,Apparel,Running Shoes,3,51.94,155.82
+1941,2024-07-28,Customer 39,East,Home & Kitchen,Coffee Maker,4,62.36,249.44
+1882,2024-07-14,Customer 12,East,Books,Cookbook,1,17.76,17.76
+1291,2024-03-02,Customer 11,North,Home & Kitchen,Coffee Maker,3,78.03,234.09
+1233,2024-02-18,Customer 25,East,Sports,Yoga Mat,4,50.97,203.88
+1741,2024-06-09,Customer 9,South,Home & Kitchen,Coffee Maker,3,90.48,271.44
+2094,2024-08-30,Customer 41,East,Apparel,Wool Sweater,4,37.91,151.64
+2357,2024-10-29,Customer 40,West,Apparel,Denim Jacket,4,43.95,175.8
+2231,2024-10-01,Customer 56,North,Books,Cookbook,4,19.53,78.12
+1049,2024-01-11,Customer 44,West,Sports,Tennis Racket,4,69.12,276.48
+1785,2024-06-19,Customer 60,North,Electronics,Laptop Stand,2,104.78,209.56
+2453,2024-11-21,Customer 33,West,Books,Biography,2,14.99,41.6
+1534,2024-04-21,Customer 18,East,Apparel,Running Shoes,2,55.16,110.32
+1628,2024-05-11,Customer 5,North,Sports,Tennis Racket,2,67.55,135.1
+1928,2024-07-25,Customer 34,North,Books,Fiction Novel,3,16.08,48.24
+2365,2024-10-31,Customer 59,West,Books,Self-Help Guide,4,21.93,87.72
+1525,2024-04-19,Customer 60,West,Home & Kitchen,Coffee Maker,2,74.17,148.34
+1399,2024-03-25,Customer 19,South,Sports,Yoga Mat,1,71.18,71.18
+2310,2024-10-20,Customer 60,South,Home & Kitchen,Coffee Maker,3,75.21,225.63
+2101,2024-09-01,Customer 44,West,Books,Biography,3,17.76,53.28
+2061,2024-08-22,Customer 14,West,Home & Kitchen,Air Fryer,2,83.48,166.96
+1589,2024-05-03,Customer 12,North,Apparel,Wool Sweater,1,40.03,40.03
+1673,2024-05-22,Customer 16,East,Electronics,4K Monitor,2,102.03,204.06
+2174,2024-09-19,Customer 22,North,Electronics,Wireless Earbuds,2,99.98,199.96
+1106,2024-01-24,Customer 15,East,Books,Fiction Novel,4,22.33,89.32
+1835,2024-06-30,Customer 17,North,Electronics,Laptop Stand,2,118.67,237.34
+1251,2024-02-23,Customer 8,North,Sports,Yoga Mat,4,45.84,183.36
+2290,2024-10-15,Customer 44,South,Home & Kitchen,Coffee Maker,3,70.26,210.78
+2173,2024-09-19,Customer 53,East,Books,Biography,1,18.88,18.88
+1390,2024-03-24,Customer 50,West,Home & Kitchen,Air Fryer,4,82.14,328.56
+1794,2024-06-21,Customer 13,North,Books,Biography,1,19.9,19.9
+1056,2024-01-14,Customer 35,West,Apparel,Running Shoes,2,54.04,108.08
+1668,2024-05-22,Customer 37,South,Books,Fiction Novel,2,22.24,44.48
+1681,2024-05-24,Customer 53,West,Books,Biography,2,17.82,35.64
+1803,2024-06-23,Customer 26,North,Apparel,Running Shoes,2,58.4,116.8
+2077,2024-08-27,Customer 1,South,Apparel,Running Shoes,2,36.36,72.72
+2338,2024-10-25,Customer 25,West,Sports,Dumbbell Set,1,48.74,48.74
+2624,2024-12-28,Customer 7,West,Apparel,Wool Sweater,3,48.11,234.64
+1346,2024-03-13,Customer 33,North,Sports,Cycling Helmet,1,68.68,68.68
+1151,2024-02-03,Customer 55,South,Sports,Yoga Mat,2,57.45,114.9
+2401,2024-11-07,Customer 59,West,Apparel,Running Shoes,1,45.55,74.52
+1827,2024-06-28,Customer 57,South,Books,Fiction Novel,2,19.66,39.32
+1524,2024-04-19,Customer 36,East,Home & Kitchen,Coffee Maker,4,75.5,302.0
+1021,2024-01-05,Customer 55,East,Home & Kitchen,Cookware Set,4,61.09,244.36
+1405,2024-03-27,Customer 10,West,Books,Self-Help Guide,3,22.89,68.67
+1257,2024-02-24,Customer 53,East,Sports,Cycling Helmet,4,52.71,210.84
+1700,2024-05-28,Customer 22,East,Home & Kitchen,Coffee Maker,4,56.72,226.88
+1388,2024-03-23,Customer 42,South,Electronics,Wireless Earbuds,1,144.03,144.03
+1185,2024-02-09,Customer 5,South,Sports,Cycling Helmet,3,57.93,173.79
+1043,2024-01-10,Customer 38,South,Sports,Dumbbell Set,2,49.58,99.16
+1473,2024-04-09,Customer 40,West,Apparel,Running Shoes,2,38.09,76.18
+1852,2024-07-05,Customer 44,South,Sports,Cycling Helmet,1,67.02,67.02
+2213,2024-09-27,Customer 39,South,Home & Kitchen,Coffee Maker,2,84.86,169.72
+1340,2024-03-12,Customer 18,West,Books,Biography,2,22.61,45.22
+2392,2024-11-06,Customer 41,West,Home & Kitchen,Coffee Maker,1,60.68,80.94
+2250,2024-10-06,Customer 34,East,Home & Kitchen,Air Fryer,3,58.79,176.37
+2041,2024-08-18,Customer 1,East,Home & Kitchen,Cookware Set,4,65.23,260.92
+2572,2024-12-19,Customer 34,North,Sports,Cycling Helmet,1,57.69,90.2
+1960,2024-08-01,Customer 34,North,Electronics,Laptop Stand,1,117.17,117.17
+2220,2024-09-29,Customer 1,East,Sports,Cycling Helmet,3,47.6,142.8
+2328,2024-10-23,Customer 60,North,Sports,Yoga Mat,2,51.59,103.18
+1315,2024-03-06,Customer 27,North,Books,Cookbook,2,21.76,43.52
+1329,2024-03-10,Customer 48,South,Books,Self-Help Guide,2,23.31,46.62
+1512,2024-04-17,Customer 47,South,Apparel,Wool Sweater,1,56.17,56.17
+2620,2024-12-27,Customer 47,East,Home & Kitchen,Air Fryer,4,64.68,441.81
+1345,2024-03-13,Customer 45,North,Electronics,Bluetooth Speaker,4,133.0,532.0
+1832,2024-06-29,Customer 25,West,Books,Cookbook,4,16.53,66.12
+1683,2024-05-24,Customer 10,West,Home & Kitchen,Cookware Set,1,80.3,80.3
+2002,2024-08-10,Customer 34,South,Books,Self-Help Guide,4,19.38,77.52
+2585,2024-12-21,Customer 7,East,Books,Fiction Novel,3,22.8,117.4
+1772,2024-06-17,Customer 8,West,Sports,Yoga Mat,2,45.57,91.14
+1066,2024-01-15,,West,Apparel,Cotton T-Shirt,2,41.69,83.38
+2540,2024-12-11,Customer 19,West,Books,Cookbook,2,15.82,44.01
+1932,2024-07-25,Customer 14,North,Sports,Yoga Mat,3,68.94,206.82
+2579,2024-12-20,Customer 44,North,Sports,Tennis Racket,2,57.01,148.55
+2476,2024-11-26,Customer 13,North,Home & Kitchen,Blender,4,79.52,481.39
+1643,2024-05-16,Customer 5,South,Electronics,4K Monitor,4,106.2,424.8
+2626,2024-12-29,Customer 54,West,Electronics,Bluetooth Speaker,4,124.53,842.13
+1808,2024-06-24,Customer 50,East,Apparel,Denim Jacket,1,47.27,47.27
+1645,2024-05-17,Customer 42,North,Sports,Dumbbell Set,4,58.66,234.64
+1417,2024-03-29,Customer 17,West,Apparel,Denim Jacket,4,58.35,233.4
+2398,2024-11-07,Customer 52,South,Electronics,Laptop Stand,3,134.6,632.94
+2263,2024-10-08,Customer 55,North,Books,Self-Help Guide,4,18.43,73.72
+2138,2024-09-10,Customer 44,West,Home & Kitchen,Air Fryer,4,73.92,295.68
+1541,2024-04-22,Customer 9,North,Home & Kitchen,Coffee Maker,1,81.95,81.95
+2484,2024-11-28,Customer 16,North,Apparel,Wool Sweater,2,43.49,117.79
+1313,2024-03-05,Customer 12,West,Electronics,Bluetooth Speaker,2,115.49,230.98
+1306,2024-03-04,Customer 18,West,Apparel,Wool Sweater,2,37.86,75.72
+1940,2024-07-27,Customer 59,East,Apparel,Wool Sweater,1,36.02,36.02
+1129,2024-01-29,Customer 48,North,Apparel,Wool Sweater,4,52.04,208.16
+1395,2024-03-25,Customer 14,South,Home & Kitchen,Cookware Set,1,59.24,59.24
+2497,2024-12-02,Customer 9,West,Electronics,Wireless Earbuds,1,148.84,211.52
+1326,2024-03-09,Customer 17,North,Books,Fiction Novel,4,18.72,74.88
+1191,2024-02-11,Customer 25,South,Books,Biography,1,17.93,17.93
+1722,2024-06-03,Customer 52,West,Books,Self-Help Guide,4,22.98,91.92
+2279,2024-10-12,Customer 59,West,Sports,Yoga Mat,2,47.19,94.38
+2064,2024-08-23,Customer 24,West,Books,Self-Help Guide,3,19.87,59.61
+1993,2024-08-09,Customer 22,South,Electronics,Wireless Earbuds,2,107.74,215.48
+1920,2024-07-23,Customer 31,North,Sports,Dumbbell Set,2,48.57,97.14
+1495,2024-04-13,Customer 1,South,Apparel,Running Shoes,1,36.97,36.97
+2032,2024-08-16,Customer 55,West,Sports,Cycling Helmet,2,69.38,138.76
+1867,2024-07-10,Customer 33,West,Electronics,Laptop Stand,3,106.21,318.63
+1384,2024-03-22,Customer 24,South,Books,Cookbook,4,20.67,82.68
+2595,2024-12-23,Customer 49,West,Apparel,Denim Jacket,2,36.13,112.64
+1652,2024-05-18,Customer 31,North,Books,Self-Help Guide,2,17.9,35.8
+2346,2024-10-26,Customer 55,East,Books,Cookbook,2,20.65,41.3
+1397,2024-03-25,Customer 52,East,Sports,Tennis Racket,3,65.93,197.79
+1946,2024-07-28,Customer 16,South,Apparel,Wool Sweater,4,38.07,152.28
+2333,2024-10-24,Customer 56,North,Apparel,Cotton T-Shirt,4,58.08,232.32
+2607,2024-12-25,Customer 20,East,Sports,Tennis Racket,2,67.05,205.62
+1724,2024-06-04,Customer 12,South,Sports,Tennis Racket,1,68.63,68.63
+1532,2024-04-20,Customer 10,North,Sports,Tennis Racket,4,56.75,227.0
+1762,2024-06-15,Customer 20,North,Books,Biography,3,17.13,51.39
+1161,2024-02-05,Customer 17,North,Books,Fiction Novel,2,14.69,29.38
+2418,2024-11-11,Customer 6,North,Electronics,4K Monitor,4,111.3,733.87
+2103,2024-09-01,Customer 17,North,Home & Kitchen,Air Fryer,1,61.41,61.41
+1936,2024-07-26,Customer 60,East,Electronics,Laptop Stand,4,126.08,504.32
+2039,2024-08-18,,South,Home & Kitchen,Air Fryer,3,70.78,212.34
+2073,2024-08-25,Customer 59,East,Sports,Yoga Mat,1,56.63,56.63
+2381,2024-11-04,Customer 45,North,Electronics,Bluetooth Speaker,3,98.58,448.22
+1020,2024-01-05,Customer 32,East,Apparel,Running Shoes,1,55.01,55.01
+1569,2024-04-29,Customer 8,North,Sports,Cycling Helmet,1,64.21,64.21
+2159,2024-09-16,Customer 1,East,Apparel,Denim Jacket,1,46.85,46.85
+1653,2024-05-19,Customer 13,North,Apparel,Wool Sweater,4,36.56,146.24
+1696,2024-05-27,Customer 37,East,Electronics,Laptop Stand,4,131.66,526.64
+1481,2024-04-11,Customer 30,South,Home & Kitchen,Blender,1,89.31,89.31
+1033,2024-01-08,Customer 52,North,Home & Kitchen,Cookware Set,3,83.76,251.28
+2134,2024-09-09,Customer 25,North,Home & Kitchen,Air Fryer,2,66.03,132.06
+2049,2024-08-19,Customer 10,East,Sports,Dumbbell Set,4,45.64,182.56
+1047,2024-01-11,Customer 38,North,Sports,Dumbbell Set,2,49.06,98.12
+1029,2024-01-08,Customer 17,East,Apparel,Running Shoes,3,44.0,132.0
+2005,2024-08-11,Customer 34,East,Sports,Tennis Racket,4,68.26,273.04
+2177,2024-09-20,Customer 14,North,Home & Kitchen,Air Fryer,4,72.57,290.28
+2201,2024-09-24,Customer 35,North,Sports,Cycling Helmet,2,67.91,135.82
+2233,2024-10-02,Customer 33,South,Home & Kitchen,Air Fryer,1,86.72,86.72
+2388,2024-11-05,Customer 9,South,Books,Self-Help Guide,2,20.01,54.43
+2185,2024-09-21,Customer 41,North,Books,Cookbook,3,16.63,49.89
+1510,2024-04-16,Customer 37,West,Apparel,Running Shoes,4,52.57,210.28
+2182,2024-09-21,Customer 9,South,Home & Kitchen,Coffee Maker,1,68.52,68.52
+1530,2024-04-20,Customer 26,South,Sports,Yoga Mat,3,59.26,177.78
+1922,2024-07-24,Customer 47,South,Books,Self-Help Guide,2,21.21,42.42
+1501,2024-04-15,Customer 4,North,Apparel,Denim Jacket,4,55.97,223.88
+1432,2024-04-01,Customer 2,West,Sports,Dumbbell Set,1,52.21,52.21
+1253,2024-02-23,Customer 39,South,Books,Cookbook,1,14.72,14.72
+2580,2024-12-21,Customer 8,North,Books,Fiction Novel,4,16.03,111.05
+2487,2024-11-29,Customer 30,East,Books,Self-Help Guide,2,19.61,54.84
+2320,2024-10-22,Customer 56,East,Electronics,Bluetooth Speaker,2,140.39,280.78
+1779,2024-06-18,Customer 12,South,Home & Kitchen,Coffee Maker,1,59.61,59.61
+1366,2024-03-17,Customer 24,East,Sports,Yoga Mat,2,46.41,92.82
+2076,2024-08-26,Customer 57,East,Electronics,4K Monitor,2,131.57,263.14
+2078,2024-08-27,Customer 5,North,Electronics,Bluetooth Speaker,3,101.22,303.66
+1680,2024-05-24,Customer 34,East,Books,Biography,4,18.05,72.2
+2308,2024-10-20,Customer 25,West,Home & Kitchen,Cookware Set,4,68.23,272.92
+1812,2024-06-25,Customer 41,South,Apparel,Wool Sweater,4,48.44,193.76
+1735,2024-06-07,Customer 45,East,Electronics,Wireless Earbuds,4,138.42,553.68
+2048,2024-08-19,Customer 41,West,Books,Fiction Novel,2,22.57,45.14
+1298,2024-03-03,Customer 51,West,Home & Kitchen,Cookware Set,2,80.33,160.66
+1556,2024-04-26,Customer 27,East,Sports,Dumbbell Set,3,61.23,183.69
+1575,2024-04-30,Customer 7,East,Home & Kitchen,Coffee Maker,3,78.83,236.49
+1018,2024-01-05,Customer 50,South,Home & Kitchen,Air Fryer,1,89.87,89.87
+1572,2024-04-30,Customer 11,North,Sports,Yoga Mat,4,57.76,231.04
+1225,2024-02-16,Customer 57,South,Sports,Dumbbell Set,3,54.31,162.93
+1599,2024-05-04,Customer 44,South,Sports,Cycling Helmet,3,71.19,213.57
+1419,2024-03-29,Customer 56,North,Apparel,Wool Sweater,2,43.85,87.7
+2343,2024-10-26,,East,Home & Kitchen,Air Fryer,3,80.36,241.08
+1218,2024-02-15,Customer 7,West,Electronics,Laptop Stand,3,115.89,347.67
+1307,2024-03-05,Customer 46,South,Apparel,Running Shoes,3,39.32,117.96
+1156,2024-02-04,Customer 46,South,Home & Kitchen,Air Fryer,4,62.44,249.76
+1171,2024-02-07,Customer 3,West,Apparel,Running Shoes,3,40.78,122.34
+2296,2024-10-16,Customer 25,North,Books,Cookbook,3,16.06,48.18
+1705,2024-05-29,Customer 47,South,Sports,Yoga Mat,1,49.38,49.38
+1286,2024-03-01,Customer 49,East,Home & Kitchen,Blender,1,60.79,60.79
+2090,2024-08-29,Customer 53,North,Books,Fiction Novel,4,15.31,61.24
+1453,2024-04-05,Customer 21,West,Sports,Tennis Racket,1,61.63,61.63
+2584,2024-12-21,Customer 56,North,Home & Kitchen,Coffee Maker,3,87.82,370.59
+1071,2024-01-16,Customer 47,West,Home & Kitchen,Coffee Maker,3,66.49,199.47
+1082,2024-01-18,Customer 51,West,Sports,Tennis Racket,1,54.86,54.86
+2561,2024-12-16,Customer 57,East,Apparel,Wool Sweater,2,56.7,196.22
+2268,2024-10-10,Customer 50,East,Books,Self-Help Guide,4,22.63,90.52
+2570,2024-12-18,Customer 60,South,Books,Cookbook,2,14.48,47.46
+1015,2024-01-04,Customer 23,North,Apparel,Running Shoes,4,44.54,178.16
+1535,2024-04-21,Customer 57,South,Home & Kitchen,Blender,4,64.56,258.24
+2414,2024-11-10,Customer 46,North,Electronics,Laptop Stand,2,126.79,364.24
+1918,2024-07-23,Customer 11,North,Home & Kitchen,Coffee Maker,1,70.73,70.73
+1451,2024-04-04,Customer 16,South,Sports,Cycling Helmet,3,47.3,141.9
+2373,2024-11-02,,North,Sports,Yoga Mat,4,66.25,348.88
+1404,2024-03-26,Customer 60,East,Home & Kitchen,Blender,1,61.12,61.12
+2513,2024-12-05,Customer 28,North,Sports,Dumbbell Set,3,45.69,211.53
+2470,2024-11-25,Customer 22,North,Home & Kitchen,Coffee Maker,1,86.58,152.04
+1739,2024-06-08,Customer 27,West,Electronics,Laptop Stand,3,105.1,315.3
+1364,2024-03-16,Customer 40,South,Home & Kitchen,Air Fryer,4,77.6,310.4
+1104,2024-01-24,Customer 31,East,Books,Fiction Novel,2,22.63,45.26
+2544,2024-12-12,Customer 28,East,Apparel,Wool Sweater,2,41.39,116.95
+2353,2024-10-28,Customer 37,North,Apparel,Wool Sweater,1,56.28,56.28
+1661,2024-05-21,Customer 18,West,Books,Biography,2,21.38,42.76
+1241,2024-02-20,Customer 20,West,Sports,Yoga Mat,3,44.85,134.55
+1430,2024-04-01,Customer 27,South,Apparel,Cotton T-Shirt,4,48.2,192.8
+1814,2024-06-25,Customer 23,East,Electronics,4K Monitor,3,120.76,362.28
+2571,2024-12-19,Customer 26,West,Apparel,Cotton T-Shirt,2,55.27,159.49
+2227,2024-09-30,Customer 2,South,Books,Fiction Novel,3,22.97,68.91
+1630,2024-05-12,Customer 22,East,Books,Fiction Novel,3,21.13,63.39
+1096,2024-01-21,Customer 40,West,Books,Cookbook,1,17.95,17.95
+1467,2024-04-08,Customer 31,North,Sports,Yoga Mat,4,54.63,218.52
+2190,2024-09-22,Customer 10,West,Apparel,Wool Sweater,3,40.14,120.42
+1084,2024-01-18,Customer 44,South,Home & Kitchen,Cookware Set,1,69.24,69.24
+1701,2024-05-28,Customer 43,West,Electronics,Wireless Earbuds,2,133.69,267.38
+1009,2024-01-03,Customer 42,West,Electronics,Wireless Earbuds,4,118.17,472.68
+1604,2024-05-06,Customer 36,West,Electronics,4K Monitor,4,117.9,471.6
+1878,2024-07-12,Customer 14,East,Home & Kitchen,Cookware Set,1,82.34,82.34
+1773,2024-06-17,Customer 14,North,Sports,Yoga Mat,2,66.42,132.84
+2162,2024-09-16,Customer 42,East,Electronics,4K Monitor,2,146.3,292.6
+1276,2024-02-28,Customer 49,West,Books,Self-Help Guide,1,23.13,23.13
+1088,2024-01-19,Customer 2,North,Books,Biography,4,23.34,93.36
+1090,2024-01-20,Customer 6,South,Apparel,Running Shoes,3,38.63,115.89
+1765,2024-06-15,Customer 40,East,Electronics,Wireless Earbuds,2,115.09,230.18
+1280,2024-02-29,Customer 9,East,Books,Biography,4,16.77,67.08
+2007,2024-08-11,Customer 38,West,Electronics,4K Monitor,4,105.14,420.56
+1651,2024-05-18,Customer 40,West,Electronics,Laptop Stand,4,149.81,599.24
+2602,2024-12-24,Customer 58,North,Electronics,Bluetooth Speaker,4,138.72,842.11
+2226,2024-09-30,Customer 5,West,Electronics,Bluetooth Speaker,2,144.16,288.32
+1992,2024-08-09,Customer 37,North,Electronics,Laptop Stand,3,103.46,310.38
+1365,2024-03-17,Customer 14,South,Apparel,Denim Jacket,4,46.44,185.76
+1023,2024-01-06,Customer 59,West,Home & Kitchen,Coffee Maker,3,75.94,227.82
+1676,2024-05-23,Customer 54,South,Books,Self-Help Guide,4,15.49,61.96
+1998,2024-08-10,,North,Books,Fiction Novel,1,18.56,18.56
+2189,2024-09-22,Customer 11,East,Apparel,Cotton T-Shirt,1,47.86,47.86
+1310,2024-03-05,Customer 3,West,Electronics,Wireless Earbuds,2,142.17,284.34
+2060,2024-08-22,Customer 22,South,Apparel,Running Shoes,2,54.59,109.18
+1640,2024-05-15,Customer 45,West,Books,Fiction Novel,2,18.88,37.76
+1240,2024-02-20,Customer 44,North,Apparel,Denim Jacket,3,37.71,113.13
+1666,2024-05-21,Customer 57,West,Sports,Cycling Helmet,4,49.52,198.08
+2412,2024-11-10,Customer 25,East,Sports,Dumbbell Set,4,52.05,370.27
+2286,2024-10-14,Customer 2,South,Sports,Yoga Mat,2,51.52,103.04
+1098,2024-01-22,Customer 11,North,Books,Fiction Novel,3,18.76,56.28
+1167,2024-02-06,Customer 8,South,Home & Kitchen,Air Fryer,3,66.64,199.92
+1496,2024-04-13,Customer 60,South,Apparel,Denim Jacket,1,46.31,46.31
+1275,2024-02-27,Customer 4,East,Sports,Cycling Helmet,4,70.97,283.88
+2113,2024-09-04,Customer 34,North,Books,Fiction Novel,1,21.33,21.33
+1714,2024-06-02,Customer 37,South,Books,Fiction Novel,1,19.02,19.02
+2378,2024-11-03,Customer 12,East,Home & Kitchen,Cookware Set,3,77.44,394.76
+1331,2024-03-11,,West,Books,Cookbook,3,22.74,68.22
+1219,2024-02-15,Customer 56,West,Electronics,Wireless Earbuds,1,151.09,151.09
+1433,2024-04-01,Customer 15,East,Books,Biography,4,21.59,86.36
+2573,2024-12-19,Customer 31,East,Books,Fiction Novel,2,17.57,61.94
+2402,2024-11-08,Customer 25,East,Home & Kitchen,Coffee Maker,4,77.49,507.37
+1486,2024-04-12,Customer 58,West,Books,Biography,1,14.69,14.69
+1531,2024-04-20,Customer 50,West,Apparel,Wool Sweater,1,56.79,56.79
+2422,2024-11-13,Customer 50,North,Sports,Tennis Racket,3,65.6,266.48
+1260,2024-02-25,Customer 31,East,Sports,Yoga Mat,1,55.97,55.97
+1810,2024-06-25,Customer 11,East,Sports,Dumbbell Set,3,60.53,181.59
+1305,2024-03-04,Customer 45,West,Books,Cookbook,3,17.05,51.15
+2384,2024-11-04,Customer 32,South,Electronics,4K Monitor,3,150.57,666.71
+1196,2024-02-11,Customer 10,North,Sports,Dumbbell Set,3,66.47,199.41
+2164,2024-09-17,Customer 56,North,Home & Kitchen,Coffee Maker,2,72.63,145.26
+2146,2024-09-13,Customer 43,East,Books,Cookbook,2,15.72,31.44
+1494,2024-04-13,Customer 35,East,Books,Fiction Novel,3,22.67,68.01
+1110,2024-01-25,Customer 51,West,Sports,Dumbbell Set,3,53.06,159.18
+2108,2024-09-03,Customer 12,East,Books,Self-Help Guide,3,17.37,52.11
+2347,2024-10-26,Customer 53,West,Electronics,4K Monitor,1,142.21,142.21
+1513,2024-04-17,Customer 17,South,Home & Kitchen,Air Fryer,3,78.39,235.17
+1691,2024-05-26,Customer 26,East,Sports,Yoga Mat,4,44.86,179.44
+1369,2024-03-17,,South,Home & Kitchen,Blender,2,73.09,146.18
+1793,2024-06-21,Customer 23,East,Sports,Dumbbell Set,4,59.39,237.56
+2098,2024-09-01,Customer 34,North,Sports,Dumbbell Set,2,46.79,93.58
+2485,2024-11-29,Customer 34,South,Apparel,Cotton T-Shirt,2,47.16,145.3
+1926,2024-07-24,Customer 22,East,Electronics,Bluetooth Speaker,1,143.49,143.49
+1273,2024-02-27,Customer 30,East,Electronics,Bluetooth Speaker,2,117.02,234.04
+1396,2024-03-25,Customer 3,South,Home & Kitchen,Air Fryer,4,59.01,236.04
+2178,2024-09-20,Customer 23,North,Home & Kitchen,Coffee Maker,4,60.55,242.2
+1660,2024-05-20,Customer 26,East,Books,Fiction Novel,1,17.59,17.59
+2215,2024-09-28,Customer 57,South,Electronics,Laptop Stand,1,143.04,143.04
+1797,2024-06-22,Customer 7,South,Sports,Tennis Racket,2,68.16,136.32
+2298,2024-10-17,Customer 23,West,Apparel,Denim Jacket,2,45.77,91.54
+2211,2024-09-26,Customer 13,West,Electronics,Bluetooth Speaker,1,121.78,121.78
+2074,2024-08-25,Customer 37,West,Books,Fiction Novel,3,19.26,57.78
+2062,2024-08-22,Customer 52,West,Apparel,Cotton T-Shirt,3,44.12,132.36
+1961,2024-08-02,Customer 34,West,Electronics,Laptop Stand,1,110.97,110.97
+1418,2024-03-29,Customer 53,East,Sports,Yoga Mat,1,52.18,52.18
+2232,2024-10-01,Customer 45,North,Home & Kitchen,Air Fryer,3,69.27,207.81
+1375,2024-03-19,Customer 38,South,Electronics,Wireless Earbuds,3,149.5,448.5
+1463,2024-04-07,Customer 41,East,Books,Cookbook,2,14.88,29.76
+1470,2024-04-08,Customer 17,North,Books,Self-Help Guide,2,20.25,40.5
+2099,2024-09-01,Customer 49,East,Apparel,Wool Sweater,1,47.95,47.95
+2272,2024-10-10,Customer 55,West,Sports,Cycling Helmet,1,54.08,54.08
+1559,2024-04-27,Customer 2,South,Electronics,4K Monitor,4,131.67,526.68
+1302,2024-03-04,Customer 19,East,Home & Kitchen,Coffee Maker,4,84.78,339.12
+1582,2024-05-01,Customer 3,West,Sports,Tennis Racket,2,63.02,126.04
+2269,2024-10-10,Customer 50,West,Home & Kitchen,Coffee Maker,4,56.68,226.72
+1798,2024-06-22,Customer 21,North,Sports,Yoga Mat,1,63.12,63.12
+1011,2024-01-03,Customer 53,West,Home & Kitchen,Coffee Maker,1,85.65,85.65
+2385,2024-11-04,Customer 19,South,Home & Kitchen,Blender,3,67.52,350.61
+1538,2024-04-22,Customer 34,South,Sports,Dumbbell Set,4,68.68,274.72
+1627,2024-05-11,Customer 41,North,Electronics,4K Monitor,2,107.5,215.0
+1281,2024-02-29,Customer 59,North,Electronics,Bluetooth Speaker,1,131.0,131.0
+2277,2024-10-11,Customer 59,South,Electronics,Laptop Stand,1,133.98,133.98
+1983,2024-08-06,Customer 20,North,Home & Kitchen,Air Fryer,3,65.03,195.09
+2628,2024-12-29,Customer 10,East,Books,Fiction Novel,2,18.1,47.9
+1223,2024-02-16,Customer 54,East,Sports,Tennis Racket,1,51.32,51.32
+1672,2024-05-22,Customer 38,East,Apparel,Denim Jacket,1,42.02,42.02
+2243,2024-10-05,Customer 47,East,Sports,Dumbbell Set,2,70.07,140.14
+1966,2024-08-03,Customer 17,West,Apparel,Cotton T-Shirt,2,58.17,116.34
+2149,2024-09-13,Customer 16,West,Apparel,Denim Jacket,2,36.36,72.72
+2093,2024-08-30,Customer 19,East,Home & Kitchen,Blender,1,63.17,63.17
+2627,2024-12-29,Customer 39,North,Apparel,Running Shoes,1,38.05,52.08
+1994,2024-08-09,Customer 39,East,Sports,Yoga Mat,2,45.73,91.46
+1580,2024-05-01,Customer 38,West,Home & Kitchen,Coffee Maker,4,59.75,239.0
+2045,2024-08-19,Customer 32,East,Home & Kitchen,Cookware Set,3,87.8,263.4
+1077,2024-01-17,Customer 50,East,Electronics,Laptop Stand,4,118.24,472.96
+1547,2024-04-23,Customer 31,West,Sports,Dumbbell Set,3,68.68,206.04
+2286,2024-10-14,Customer 2,South,Sports,Yoga Mat,2,51.52,103.04
+1748,2024-06-10,Customer 43,East,Books,Self-Help Guide,4,20.37,81.48
+1826,2024-06-28,Customer 13,West,Home & Kitchen,Coffee Maker,3,57.39,172.17
+1125,2024-01-28,Customer 23,West,Home & Kitchen,Air Fryer,3,78.46,235.38
+2252,2024-10-06,Customer 21,East,Home & Kitchen,Blender,3,64.34,193.02
+1757,2024-06-13,Customer 57,West,Electronics,Bluetooth Speaker,3,124.15,372.45
+2066,2024-08-23,Customer 9,East,Home & Kitchen,Cookware Set,2,74.86,149.72
+1576,2024-04-30,Customer 42,East,Electronics,Laptop Stand,2,119.39,238.78
+1621,2024-05-10,,North,Electronics,4K Monitor,1,136.08,136.08
+1767,2024-06-16,Customer 21,West,Books,Fiction Novel,3,19.46,58.38
+2229,2024-10-01,Customer 6,South,Electronics,4K Monitor,2,107.86,215.72
+2617,2024-12-27,Customer 56,West,Electronics,Laptop Stand,3,104.31,514.49
+2634,2024-12-31,Customer 40,North,Home & Kitchen,Air Fryer,2,81.79,264.35
+2030,2024-08-15,Customer 19,West,Books,Fiction Novel,3,17.2,51.6
+2486,2024-11-29,Customer 45,South,Books,Self-Help Guide,2,9999.99,72.04
+1802,2024-06-23,Customer 27,West,Home & Kitchen,Air Fryer,4,75.12,300.48
+1844,2024-07-02,Customer 46,West,Apparel,Denim Jacket,3,51.14,153.42
+2391,2024-11-06,Customer 53,West,Books,Biography,2,22.5,78.56
+2612,2024-12-26,Customer 3,East,Sports,Cycling Helmet,3,64.96,307.15
+2413,2024-11-10,Customer 11,North,Books,Biography,1,21.81,35.07
+1259,2024-02-25,Customer 24,North,Home & Kitchen,Air Fryer,4,76.27,305.08
+1282,2024-02-29,Customer 26,North,Apparel,Denim Jacket,3,50.95,152.85
+1634,2024-05-13,Customer 6,West,Sports,Tennis Racket,1,46.74,46.74
+2547,2024-12-13,Customer 22,North,Apparel,Denim Jacket,4,55.22,372.59
+1474,2024-04-10,Customer 38,South,Home & Kitchen,Coffee Maker,2,83.35,166.7
+1455,2024-04-05,Customer 22,South,Electronics,Bluetooth Speaker,1,128.33,128.33
+1320,2024-03-07,Customer 27,South,Home & Kitchen,Blender,2,77.47,154.94
+1434,2024-04-02,Customer 46,South,Books,Biography,4,18.55,74.2
+2581,2024-12-21,Customer 28,East,Books,Biography,1,21.2,36.48
+1299,2024-03-03,Customer 57,East,Books,Cookbook,4,14.67,58.68
+1436,2024-04-02,Customer 16,West,Apparel,Cotton T-Shirt,1,39.7,39.7
+2621,2024-12-27,Customer 29,South,Home & Kitchen,Air Fryer,1,60.36,95.75
+1438,2024-04-02,Customer 13,West,Books,Fiction Novel,3,20.5,61.5
+1325,2024-03-09,Customer 58,South,Apparel,Running Shoes,4,42.82,171.28
+1403,2024-03-26,Customer 60,South,Electronics,Bluetooth Speaker,2,151.42,302.84
+2289,2024-10-15,Customer 53,West,Home & Kitchen,Cookware Set,2,60.41,120.82
+1564,2024-04-28,Customer 38,South,Electronics,4K Monitor,3,108.6,325.8
+1292,2024-03-02,Customer 52,West,Apparel,Denim Jacket,2,47.49,94.98
+1278,2024-02-29,Customer 13,East,Apparel,Cotton T-Shirt,1,42.54,42.54
+1655,2024-05-19,Customer 48,West,Apparel,Cotton T-Shirt,4,46.09,184.36
+2432,2024-11-15,Customer 42,West,Books,Cookbook,1,14.45,24.07
+1732,2024-06-06,Customer 1,East,Electronics,Wireless Earbuds,3,115.29,345.87
+1553,2024-04-25,Customer 15,West,Home & Kitchen,Coffee Maker,2,63.71,127.42
+1094,2024-01-21,Customer 24,South,Home & Kitchen,Air Fryer,2,81.19,162.38
+2551,2024-12-13,Customer 12,North,Sports,Tennis Racket,3,49.22,213.75
+2255,2024-10-07,Customer 14,East,Sports,Cycling Helmet,1,63.62,63.62
+1245,2024-02-21,Customer 51,North,Electronics,4K Monitor,1,97.53,97.53
+1945,2024-07-28,Customer 19,West,Sports,Cycling Helmet,1,47.41,47.41
+2191,2024-09-22,Customer 27,North,Home & Kitchen,Cookware Set,2,71.98,143.96
+2356,2024-10-29,Customer 28,East,Apparel,Cotton T-Shirt,1,50.96,50.96
+1775,2024-06-17,Customer 27,South,Sports,Dumbbell Set,3,69.27,207.81
+1426,2024-03-31,Customer 39,East,Books,Fiction Novel,3,15.13,45.39
+2186,2024-09-22,Customer 19,South,Apparel,Wool Sweater,1,38.89,38.89
+1149,2024-02-03,Customer 47,South,Apparel,Denim Jacket,4,50.77,203.08
+1226,2024-02-17,Customer 29,North,Apparel,Wool Sweater,2,44.69,89.38
+1865,2024-07-09,Customer 17,West,Electronics,Bluetooth Speaker,3,143.94,431.82
+1967,2024-08-03,Customer 42,North,Electronics,Laptop Stand,2,133.12,266.24
+2118,2024-09-05,Customer 2,North,Sports,Dumbbell Set,4,60.39,241.56
+2245,2024-10-05,Customer 3,North,Electronics,4K Monitor,1,133.87,133.87
+1900,2024-07-18,Customer 38,North,Books,Biography,2,18.69,37.38
+1699,2024-05-28,,North,Sports,Cycling Helmet,4,71.23,284.92
+1601,2024-05-05,Customer 57,West,Apparel,Running Shoes,1,57.61,57.61
+2291,2024-10-15,Customer 45,West,Electronics,Bluetooth Speaker,3,147.57,442.71
+2058,2024-08-22,,East,Electronics,Laptop Stand,2,136.32,272.64
+1217,2024-02-15,Customer 12,West,Home & Kitchen,Coffee Maker,3,60.51,181.53
+2096,2024-08-31,Customer 17,East,Books,Biography,4,22.51,90.04
+1817,2024-06-26,Customer 4,West,Electronics,Laptop Stand,3,101.93,305.79
+1220,2024-02-15,Customer 5,West,Apparel,Cotton T-Shirt,2,46.32,92.64
+1213,2024-02-14,Customer 25,West,Home & Kitchen,Cookware Set,1,88.13,88.13
+2525,2024-12-07,Customer 7,West,Sports,Dumbbell Set,1,47.53,79.16
+1907,2024-07-20,Customer 6,North,Electronics,Laptop Stand,2,114.08,228.16
+1394,2024-03-25,Customer 28,West,Home & Kitchen,Coffee Maker,3,79.81,239.43
+1367,2024-03-17,Customer 38,East,Electronics,Bluetooth Speaker,1,149.27,149.27
+1924,2024-07-24,,North,Electronics,4K Monitor,1,145.23,145.23
+1012,2024-01-04,Customer 45,North,Sports,Cycling Helmet,2,58.88,117.76
+2515,2024-12-05,Customer 7,South,Home & Kitchen,Blender,4,72.5,518.17
+2367,2024-11-01,Customer 2,East,Electronics,Laptop Stand,4,147.52,1041.45
+2222,2024-09-29,Customer 53,North,Home & Kitchen,Cookware Set,2,70.34,140.68
+1234,2024-02-19,Customer 37,West,Sports,Dumbbell Set,4,48.24,192.96
+1695,2024-05-26,Customer 11,South,Apparel,Wool Sweater,2,57.63,115.26
+2444,2024-11-19,Customer 5,East,Home & Kitchen,Blender,3,60.59,290.21
+2084,2024-08-28,,North,Electronics,Bluetooth Speaker,1,130.62,130.62
+2541,2024-12-11,Customer 5,West,Apparel,Denim Jacket,1,42.36,71.42
+2459,2024-11-22,Customer 56,South,Apparel,Running Shoes,2,49.86,136.91
+2321,2024-10-22,Customer 56,East,Books,Fiction Novel,1,21.14,21.14
+1063,2024-01-15,Customer 49,East,Books,Biography,2,20.9,41.8
+1734,2024-06-06,Customer 2,East,Sports,Dumbbell Set,1,70.46,70.46
+2023,2024-08-14,Customer 33,South,Home & Kitchen,Air Fryer,2,64.37,128.74
+1964,2024-08-02,Customer 46,North,Apparel,Wool Sweater,3,53.34,160.02
+1607,2024-05-08,Customer 33,East,Books,Biography,1,17.7,17.7
+1013,2024-01-04,Customer 37,East,Electronics,Bluetooth Speaker,4,117.68,470.72
+1839,2024-07-01,Customer 29,North,Sports,Dumbbell Set,3,63.3,189.9
+1435,2024-04-02,Customer 29,East,Books,Cookbook,3,21.3,63.9
+1017,2024-01-05,Customer 10,West,Home & Kitchen,Blender,3,64.38,193.14
+1764,2024-06-15,Customer 22,West,Sports,Dumbbell Set,3,50.48,151.44
+1348,2024-03-13,Customer 32,North,Electronics,Laptop Stand,2,128.81,257.62
+1207,2024-02-13,Customer 29,North,Apparel,Denim Jacket,4,39.65,158.6
+2114,2024-09-04,Customer 34,West,Apparel,Denim Jacket,1,49.73,49.73
+2331,2024-10-24,Customer 26,South,Apparel,Denim Jacket,4,46.3,185.2
+1341,2024-03-12,Customer 50,South,Books,Fiction Novel,2,15.54,31.08
+2404,2024-11-08,Customer 35,West,Sports,Tennis Racket,3,47.75,201.85
+1344,2024-03-12,Customer 6,West,Electronics,Wireless Earbuds,3,99.02,297.06
+2475,2024-11-26,Customer 55,East,Electronics,Laptop Stand,4,120.07,851.59
+2507,2024-12-04,Customer 42,North,Apparel,Running Shoes,4,47.78,310.77
+1551,2024-04-24,Customer 11,West,Books,Fiction Novel,1,22.91,22.91
+1598,2024-05-04,Customer 23,West,Apparel,Wool Sweater,3,54.71,164.13
+1032,2024-01-08,Customer 9,East,Sports,Tennis Racket,4,66.42,265.68
+1372,2024-03-18,Customer 28,North,Sports,Cycling Helmet,2,44.48,88.96
+1657,2024-05-19,Customer 12,North,Books,Biography,3,17.78,53.34
+1172,2024-02-07,Customer 57,West,Apparel,Denim Jacket,4,51.8,207.2
+2086,2024-08-29,Customer 16,North,Home & Kitchen,Cookware Set,4,68.38,273.52
+2518,2024-12-06,Customer 39,East,Home & Kitchen,Coffee Maker,2,67.0,231.04
+1408,2024-03-27,Customer 27,South,Electronics,Bluetooth Speaker,4,125.32,501.28
+2050,2024-08-19,Customer 12,North,Sports,Yoga Mat,2,55.66,111.32
+2594,2024-12-23,Customer 54,North,Home & Kitchen,Air Fryer,3,82.3,383.89
+1200,2024-02-12,Customer 37,West,Electronics,Bluetooth Speaker,1,110.97,110.97
+2316,2024-10-21,Customer 22,East,Books,Biography,1,17.09,17.09
+1860,2024-07-07,Customer 19,East,Books,Fiction Novel,3,18.31,54.93
+2532,2024-12-08,Customer 60,East,Books,Self-Help Guide,3,21.11,99.24
+2165,2024-09-17,Customer 9,North,Electronics,Bluetooth Speaker,4,137.61,550.44
+2509,2024-12-04,Customer 52,East,Sports,Tennis Racket,2,59.63,210.49
+2546,2024-12-13,Customer 21,South,Books,Self-Help Guide,1,22.21,36.37
+2361,2024-10-30,Customer 48,North,Books,Cookbook,1,21.31,21.31
+1489,2024-04-12,Customer 5,South,Books,Cookbook,1,20.59,20.59
+2543,2024-12-12,Customer 33,South,Sports,Cycling Helmet,3,62.61,328.83
+1212,2024-02-14,,West,Electronics,Laptop Stand,2,120.27,240.54
+1133,2024-01-29,Customer 18,East,Apparel,Denim Jacket,1,58.48,58.48
+1060,2024-01-14,Customer 8,South,Home & Kitchen,Cookware Set,4,86.89,347.56
+1690,2024-05-26,Customer 48,South,Sports,Tennis Racket,2,57.47,114.94
+1026,2024-01-06,Customer 46,South,Home & Kitchen,Coffee Maker,1,69.03,69.03
+1100,2024-01-23,Customer 50,South,Home & Kitchen,Cookware Set,3,78.0,234.0
+1974,2024-08-04,Customer 9,South,Books,Biography,1,23.29,23.29
+1776,2024-06-17,Customer 19,West,Books,Cookbook,4,14.43,57.72
+1788,2024-06-20,Customer 41,East,Sports,Cycling Helmet,2,70.03,140.06
+1520,2024-04-18,Customer 19,West,Apparel,Denim Jacket,2,45.23,90.46
+1363,2024-03-16,Customer 15,East,Sports,Dumbbell Set,2,62.1,124.2
+1309,2024-03-05,Customer 52,North,Sports,Cycling Helmet,3,60.29,180.87
+1795,2024-06-21,Customer 15,East,Sports,Yoga Mat,4,57.6,230.4
+1828,2024-06-28,Customer 7,North,Home & Kitchen,Coffee Maker,2,81.34,3439.4480618156263
+2276,2024-10-11,Customer 48,West,Apparel,Denim Jacket,4,37.9,151.6
+1544,2024-04-23,Customer 11,West,Sports,Dumbbell Set,2,50.35,100.7
+1939,2024-07-27,Customer 54,East,Sports,Tennis Racket,4,58.22,232.88
+2505,2024-12-03,Customer 2,North,Apparel,Wool Sweater,2,37.0,119.56
+1441,2024-04-03,Customer 1,East,Apparel,Cotton T-Shirt,1,41.18,41.18
+1647,2024-05-17,,West,Books,Biography,3,17.1,51.3
+2003,2024-08-11,Customer 7,North,Apparel,Running Shoes,4,55.09,220.36
+1476,2024-04-10,Customer 42,South,Home & Kitchen,Air Fryer,1,66.34,66.34
+2046,2024-08-19,Customer 50,South,Electronics,Laptop Stand,1,149.03,149.03
+1062,2024-01-15,Customer 28,North,Sports,Tennis Racket,3,61.38,184.14
+2172,2024-09-19,Customer 35,North,Electronics,4K Monitor,3,125.6,376.8
+1483,2024-04-11,Customer 17,South,Sports,Yoga Mat,4,55.26,221.04
+2026,2024-08-15,Customer 7,East,Electronics,Bluetooth Speaker,2,153.06,306.12
+2281,2024-10-13,Customer 27,East,Books,Biography,1,20.41,20.41
+1052,2024-01-12,Customer 15,East,Apparel,Denim Jacket,4,48.76,195.04
+1242,2024-02-20,Customer 59,West,Electronics,Wireless Earbuds,2,108.29,216.58
+2197,2024-09-23,Customer 48,West,Home & Kitchen,Blender,1,85.5,85.5
+1035,2024-01-09,Customer 11,North,Books,Cookbook,2,22.93,45.86
+2202,2024-09-25,Customer 54,West,Books,Fiction Novel,1,19.47,19.47
+1738,2024-06-08,Customer 19,West,Home & Kitchen,Cookware Set,4,76.87,307.48
+1120,2024-01-27,Customer 38,West,Home & Kitchen,Air Fryer,1,71.85,71.85
+2576,2024-12-20,Customer 5,South,Home & Kitchen,Air Fryer,1,83.97,121.97
+2299,2024-10-18,Customer 43,North,Home & Kitchen,Blender,2,65.94,131.88
+2019,2024-08-14,Customer 21,North,Sports,Cycling Helmet,3,46.87,140.61
+1044,2024-01-10,Customer 13,South,Electronics,Wireless Earbuds,2,146.41,292.82
+2324,2024-10-22,Customer 52,West,Books,Fiction Novel,3,19.83,59.49
+1836,2024-06-30,Customer 39,South,Electronics,Laptop Stand,2,106.37,212.74
+1076,2024-01-17,Customer 28,East,Books,Cookbook,1,20.95,20.95
+1368,2024-03-17,,North,Books,Fiction Novel,4,16.75,67.0
+1906,2024-07-19,Customer 49,West,Home & Kitchen,Blender,1,87.71,87.71
+2236,2024-10-02,Customer 16,South,Sports,Yoga Mat,2,67.59,135.18
+1267,2024-02-26,Customer 2,East,Home & Kitchen,Coffee Maker,4,69.35,277.4
+2335,2024-10-24,,South,Sports,Yoga Mat,4,65.3,261.2
+1728,2024-06-05,Customer 45,North,Home & Kitchen,Blender,1,61.35,61.35
+1444,2024-04-03,Customer 10,West,Sports,Cycling Helmet,3,54.43,163.29
+1503,2024-04-15,Customer 36,South,Home & Kitchen,Coffee Maker,4,67.95,271.8
+2519,2024-12-07,Customer 12,North,Apparel,Wool Sweater,1,52.89,92.15
+2057,2024-08-21,Customer 38,North,Apparel,Running Shoes,2,40.12,80.24
+2033,2024-08-16,Customer 4,East,Apparel,Running Shoes,4,56.54,226.16
+2184,2024-09-21,Customer 7,South,Books,Biography,1,17.93,17.93
+1285,2024-03-01,Customer 24,South,Sports,Tennis Racket,4,68.12,272.48
+1295,2024-03-03,Customer 25,West,Sports,Dumbbell Set,4,48.83,195.32
+1625,2024-05-11,Customer 5,South,Sports,Dumbbell Set,4,46.9,187.6
+1277,2024-02-28,Customer 53,East,Home & Kitchen,Air Fryer,2,77.77,155.54
+2565,2024-12-16,Customer 8,North,Apparel,Cotton T-Shirt,1,40.4,58.6
+1484,2024-04-12,Customer 55,North,Home & Kitchen,Coffee Maker,4,59.61,238.44
+2520,2024-12-07,Customer 35,West,Home & Kitchen,Air Fryer,4,78.75,505.56
+1182,2024-02-09,Customer 19,East,Apparel,Denim Jacket,3,40.94,122.82
+1970,2024-08-03,Customer 25,East,Home & Kitchen,Cookware Set,1,85.7,85.7
+2601,2024-12-24,Customer 16,West,Electronics,Laptop Stand,2,134.93,382.04
+1684,2024-05-24,Customer 43,North,Sports,Tennis Racket,4,57.18,228.72
+2615,2024-12-27,Customer 26,East,Home & Kitchen,Blender,3,56.48,243.51
+1036,2024-01-09,Customer 60,East,Apparel,Wool Sweater,2,42.11,84.22
+2180,2024-09-20,Customer 30,West,Sports,Tennis Racket,2,68.35,136.7
+1002,2024-01-01,Customer 8,West,Electronics,Wireless Earbuds,2,114.18,228.36
+1754,2024-06-11,Customer 48,West,Books,Biography,3,22.5,67.5
+1508,2024-04-16,Customer 39,South,Electronics,Bluetooth Speaker,3,142.71,428.13
+1497,2024-04-13,Customer 13,West,Apparel,Denim Jacket,1,42.64,42.64
+1308,2024-03-05,Customer 2,East,Home & Kitchen,Cookware Set,2,75.23,150.46
+2313,2024-10-21,Customer 57,West,Books,Fiction Novel,1,21.88,21.88
+2438,2024-11-17,Customer 15,East,Electronics,Bluetooth Speaker,2,121.17,365.37
+2445,2024-11-19,Customer 29,North,Sports,Cycling Helmet,4,48.6,334.7
+1141,2024-01-31,Customer 43,East,Home & Kitchen,Coffee Maker,4,57.98,231.92
+2247,2024-10-05,Customer 43,East,Electronics,Laptop Stand,2,113.04,226.08
+1864,2024-07-09,Customer 32,East,Electronics,Wireless Earbuds,1,116.93,116.93
+1183,2024-02-09,Customer 12,South,Electronics,Bluetooth Speaker,1,99.78,99.78
+2589,2024-12-22,Customer 56,South,Electronics,Laptop Stand,3,97.41,411.55
+2010,2024-08-12,Customer 52,North,Books,Biography,4,17.11,68.44
+1912,2024-07-21,Customer 1,North,Sports,Dumbbell Set,3,52.13,156.39
+1848,2024-07-03,Customer 46,West,Sports,Dumbbell Set,2,50.26,100.52
+1511,2024-04-16,Customer 28,North,Sports,Dumbbell Set,4,53.83,215.32
+1731,2024-06-06,Customer 51,South,Books,Cookbook,4,18.83,75.32
+1996,2024-08-09,Customer 25,South,Apparel,Cotton T-Shirt,1,44.79,44.79
+1887,2024-07-15,Customer 15,South,Home & Kitchen,Coffee Maker,3,87.94,263.82
+1117,2024-01-27,Customer 1,West,Sports,Cycling Helmet,3,56.89,170.67
+2025,2024-08-15,Customer 9,South,Apparel,Wool Sweater,4,47.64,190.56
+1113,2024-01-25,Customer 49,East,Electronics,4K Monitor,2,134.62,269.24
+1545,2024-04-23,Customer 47,North,Home & Kitchen,Blender,2,58.24,116.48
+1165,2024-02-06,Customer 44,South,Apparel,Running Shoes,2,45.47,90.94
+1184,2024-02-09,Customer 13,South,Sports,Dumbbell Set,2,69.37,138.74
+2396,2024-11-07,Customer 8,North,Apparel,Cotton T-Shirt,2,58.37,158.3
+1274,2024-02-27,Customer 16,East,Books,Fiction Novel,2,15.28,30.56
+2001,2024-08-10,Customer 49,South,Electronics,Bluetooth Speaker,1,119.19,119.19
+1704,2024-05-29,Customer 41,East,Sports,Yoga Mat,1,58.85,58.85
+2024,2024-08-14,Customer 8,North,Books,Cookbook,2,17.5,35.0
+2590,2024-12-22,Customer 15,East,Books,Biography,3,19.21,94.37
+2564,2024-12-16,Customer 57,South,Home & Kitchen,Air Fryer,1,59.86,88.4
+2524,2024-12-07,Customer 5,West,Books,Cookbook,2,20.22,67.95
+1383,2024-03-22,Customer 46,South,Apparel,Cotton T-Shirt,3,56.84,170.52
+2429,2024-11-15,Customer 32,North,Electronics,Wireless Earbuds,1,115.78,159.99
+1561,2024-04-27,Customer 55,North,Sports,Yoga Mat,3,53.8,161.4
+1862,2024-07-08,Customer 36,North,Apparel,Running Shoes,4,42.19,168.76
+2044,2024-08-19,Customer 37,South,Home & Kitchen,Air Fryer,1,67.04,67.04
+1176,2024-02-07,Customer 19,West,Books,Self-Help Guide,3,18.49,55.47
+2359,2024-10-29,Customer 8,South,Sports,Yoga Mat,4,68.59,274.36
+1379,2024-03-20,Customer 23,East,Sports,Dumbbell Set,2,51.93,103.86
+2569,2024-12-18,Customer 52,West,Electronics,4K Monitor,3,139.17,559.19
+2195,2024-09-23,Customer 25,West,Sports,Dumbbell Set,3,49.7,149.1
+2016,2024-08-13,Customer 28,South,Books,Self-Help Guide,1,18.1,18.1
+1519,2024-04-18,Customer 55,South,Books,Self-Help Guide,1,21.47,21.47
+1830,2024-06-29,Customer 8,East,Electronics,Bluetooth Speaker,3,122.48,367.44
+1507,2024-04-15,Customer 52,South,Sports,Dumbbell Set,3,49.89,149.67
+2176,2024-09-19,Customer 8,West,Electronics,Laptop Stand,1,152.69,152.69
+1413,2024-03-28,Customer 55,South,Books,Fiction Novel,2,18.37,36.74
+1622,2024-05-10,Customer 8,East,Apparel,Denim Jacket,3,47.06,141.18
+1872,2024-07-10,Customer 38,East,Books,Self-Help Guide,3,20.45,61.35
+2605,2024-12-25,Customer 26,South,Electronics,Laptop Stand,3,126.94,515.06
+1858,2024-07-07,Customer 54,North,Electronics,4K Monitor,4,96.36,385.44
+1641,2024-05-16,,West,Sports,Dumbbell Set,2,57.96,115.92
+2340,2024-10-25,Customer 45,North,Apparel,Denim Jacket,4,42.19,168.76
+1258,2024-02-25,Customer 57,West,Sports,Dumbbell Set,2,46.65,93.3
+1834,2024-06-30,Customer 35,South,Books,Self-Help Guide,4,19.77,79.08
+1662,2024-05-21,Customer 60,North,Apparel,Wool Sweater,1,50.72,50.72
+2498,2024-12-02,Customer 8,North,Books,Fiction Novel,4,14.99,101.53
+1337,2024-03-11,Customer 52,East,Home & Kitchen,Blender,4,68.54,274.16
+2562,2024-12-16,Customer 60,North,Apparel,Denim Jacket,3,36.58,146.19
+2528,2024-12-08,Customer 32,North,Electronics,Bluetooth Speaker,1,104.87,174.0
+1398,2024-03-25,Customer 35,South,Home & Kitchen,Blender,2,73.7,147.4
+2447,2024-11-19,Customer 56,East,Books,Fiction Novel,4,17.07,114.43
+1605,2024-05-07,Customer 14,South,Books,Biography,4,22.67,90.68
+1480,2024-04-11,Customer 52,South,Sports,Tennis Racket,4,56.42,225.68
+2446,2024-11-19,Customer 4,East,Sports,Cycling Helmet,3,44.46,202.69
+2143,2024-09-12,Customer 40,West,Home & Kitchen,Coffee Maker,1,75.12,75.12
+1917,2024-07-22,Customer 5,South,Books,Cookbook,1,22.36,22.36
+2017,2024-08-13,Customer 32,South,Apparel,Running Shoes,2,49.52,99.04
+1875,2024-07-11,Customer 55,West,Home & Kitchen,Coffee Maker,1,64.44,64.44
+1659,2024-05-20,Customer 52,South,Electronics,4K Monitor,3,136.99,410.97
+2021,2024-08-14,Customer 40,North,Electronics,Laptop Stand,2,148.68,297.36
+1789,2024-06-20,Customer 36,West,Books,Fiction Novel,4,15.34,61.36
+1256,2024-02-24,Customer 50,South,Home & Kitchen,Blender,1,80.94,80.94
+1968,2024-08-03,Customer 2,East,Home & Kitchen,Coffee Maker,3,64.37,193.11
+1952,2024-07-31,Customer 13,West,Sports,Cycling Helmet,2,51.21,102.42
+2273,2024-10-10,Customer 28,South,Books,Cookbook,3,17.5,52.5

@@ -1,0 +1,62 @@
+customer_id,customer,segment,region,signup_date,email,loyalty_score
+1,Customer 1,Consumer,West,2022-11-30,,59
+2,Customer 2,Consumer,East,2022-11-11,customer2@example.com,15
+3,Customer 3,Enterprise,East,2021-04-09,,54
+4,Customer 4,Enterprise,North,2024-10-03,customer4@example.com,62
+5,Customer 5,Consumer,North,2022-12-17,customer5@example.com,44
+6,Customer 6,Consumer,East,2024-04-13,customer6@example.com,14
+7,Customer 7,Small Business,North,2023-07-28,customer7@example.com,46
+8,Customer 8,Small Business,East,2024-03-20,,55
+9,Customer 9,Enterprise,North,2021-10-14,customer9@example.com,31
+10,Customer 10,Consumer,East,2024-10-09,customer10@example.com,35
+11,Customer 11,Consumer,East,2021-11-26,customer11@example.com,59
+12,Customer 12,Small Business,West,2024-09-16,customer12@example.com,13
+13,Customer 13,Consumer,East,2022-01-24,customer13@example.com,2
+14,Customer 14,Small Business,North,2022-03-01,customer14@example.com,43
+15,Customer 15,Consumer,West,2023-08-01,customer15@example.com,8
+16,Customer 16,Enterprise,North,2024-10-26,customer16@example.com,22
+17,Customer 17,Consumer,North,2021-10-09,customer17@example.com,44
+18,Customer 18,Consumer,South,2022-04-20,customer18@example.com,90
+19,Customer 19,Small Business,East,2022-04-21,customer19@example.com,89
+20,Customer 20,Consumer,North,2021-01-06,customer20@example.com,99
+21,Customer 21,Consumer,West,2023-08-26,customer21@example.com,85
+22,Customer 22,Consumer,North,2021-09-26,customer22@example.com,84
+23,Customer 23,Consumer,North,2022-03-09,customer23@example.com,93
+24,Customer 24,Consumer,South,2023-12-21,,18
+25,Customer 25,Consumer,North,2024-03-20,customer25@example.com,1
+26,Customer 26,Consumer,South,2023-06-22,customer26@example.com,74
+27,Customer 27,Consumer,West,2021-03-28,customer27@example.com,14
+28,Customer 28,Small Business,East,2023-11-02,customer28@example.com,3
+29,Customer 29,Small Business,East,2021-09-24,customer29@example.com,68
+30,Customer 30,Consumer,North,2022-05-20,customer30@example.com,30
+31,Customer 31,Small Business,East,2022-11-22,customer31@example.com,29
+32,Customer 32,Consumer,West,2021-12-09,customer32@example.com,32
+33,Customer 33,Consumer,South,2024-10-01,customer33@example.com,37
+34,Customer 34,Consumer,West,2024-08-03,customer34@example.com,44
+35,Customer 35,Consumer,West,2023-11-12,customer35@example.com,87
+36,Customer 36,Consumer,North,2023-01-15,customer36@example.com,40
+37,Customer 37,Consumer,North,2024-03-29,customer37@example.com,30
+38,Customer 38,Consumer,East,2021-04-24,customer38@example.com,66
+39,Customer 39,Small Business,West,2023-12-30,customer39@example.com,57
+40,Customer 40,Consumer,West,2023-02-18,customer40@example.com,62
+41,Customer 41,Consumer,East,2022-09-13,customer41@example.com,48
+42,Customer 42,Small Business,West,2021-08-23,customer42@example.com,76
+43,Customer 43,Consumer,North,2022-05-19,customer43@example.com,64
+44,Customer 44,Enterprise,North,2021-07-19,customer44@example.com,15
+45,Customer 45,Consumer,West,2022-05-16,customer45@example.com,75
+46,Customer 46,Small Business,North,2022-04-19,customer46@example.com,63
+47,Customer 47,Consumer,North,2022-11-29,customer47@example.com,52
+48,Customer 48,Small Business,North,2022-05-26,customer48@example.com,23
+49,Customer 49,Consumer,East,2021-06-11,customer49@example.com,84
+50,Customer 50,Small Business,East,2021-08-14,customer50@example.com,33
+51,Customer 51,Small Business,North,2022-05-08,customer51@example.com,10
+52,Customer 52,Consumer,North,2024-06-25,customer52@example.com,40
+53,Customer 53,Enterprise,East,2021-06-11,customer53@example.com,9
+54,Customer 54,Consumer,North,2023-08-11,customer54@example.com,96
+55,Customer 55,Enterprise,South,2023-09-08,customer55@example.com,82
+56,Customer 56,Small Business,North,2024-09-18,customer56@example.com,68
+57,Customer 57,Consumer,West,2022-10-13,customer57@example.com,80
+58,Customer 58,Small Business,North,2023-05-05,customer58@example.com,72
+59,Customer 59,Small Business,West,2023-12-01,customer59@example.com,66
+60,Customer 60,Small Business,South,2022-05-07,customer60@example.com,25
+1,Customer 1,Consumer,West,2022-11-30,,59
