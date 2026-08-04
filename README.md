@@ -8,16 +8,6 @@ model's reasoning and tool calls shown for full transparency.
 Built with **FastAPI + DuckDB** on the backend (agentic tool-calling with the Anthropic Claude
 API) and a **Streamlit** chat frontend.
 
-```
-"Which region generated the highest revenue?"        -> grounded answer + the SQL that produced it
-"Show monthly sales trends"                            -> line chart, rendered inline
-"Which products are underperforming?"                  -> ranked table + explanation
-"What are the top 5 customers?"                         -> SQL join across sales_data + customers
-"Detect anomalies in the dataset"                       -> flagged rows + plain-language "why"
-```
-
----
-
 ## Features
 - Upload & validate one or more CSV files (encoding/delimiter recovery, size limits, schema sanitization)
 - Natural language Q&A over the data, grounded in real tool calls (no fabricated numbers)
